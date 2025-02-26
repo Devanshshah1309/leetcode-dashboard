@@ -1,0 +1,4 @@
+node_modules
+.next
+public/leetcode-company-wise-problems
+.DS_Store
