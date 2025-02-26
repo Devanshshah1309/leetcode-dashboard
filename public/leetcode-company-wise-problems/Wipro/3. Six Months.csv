@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimum Moves to Capture The Queen,100.0,0.21274193901931132,https://leetcode.com/problems/minimum-moves-to-capture-the-queen,"Math, Enumeration"
+EASY,Two Sum,67.3,0.5490436799182877,https://leetcode.com/problems/two-sum,"Array, Hash Table"

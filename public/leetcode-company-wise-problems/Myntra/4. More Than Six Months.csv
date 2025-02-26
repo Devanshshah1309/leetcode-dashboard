@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Asteroid Collision,100.0,0.4504244374106714,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,LRU Cache,92.0,0.44265446166237643,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Flatten Binary Tree to Linked List,80.9,0.6750831888976792,https://leetcode.com/problems/flatten-binary-tree-to-linked-list,"Linked List, Stack, Tree, Depth-First Search, Binary Tree"
+HARD,Word Break II,80.9,0.5277145193644088,https://leetcode.com/problems/word-break-ii,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+HARD,Trapping Rain Water,80.9,0.6412335209760769,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Group Anagrams,80.9,0.7021297373985579,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Maximum Earnings From Taxi,80.9,0.44524308180387395,https://leetcode.com/problems/maximum-earnings-from-taxi,"Array, Hash Table, Binary Search, Dynamic Programming, Sorting"

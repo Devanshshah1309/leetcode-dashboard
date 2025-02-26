@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Median of Two Sorted Arrays,100.0,0.42747222741031293,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Two Sum,79.4,0.5490436619075413,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,79.4,0.36201715975095966,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Longest Common Prefix,79.4,0.4474568332158767,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Maximum Subarray,79.4,0.5164884389388017,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Extra Characters in a String,79.4,0.5742984247782659,https://leetcode.com/problems/extra-characters-in-a-string,"Array, Hash Table, String, Dynamic Programming, Trie"
+EASY,Check if Number Has Equal Digit Count and Digit Value,79.4,0.7258565976242549,https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value,"Hash Table, String, Counting"

@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3620169539584454,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Two Sum,94.9,0.5490437073221399,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Moving Average from Data Stream,91.9,0.7950187248229406,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Analyze User Website Visit Pattern,84.2,0.4314087076957792,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, Sorting"
+EASY,Valid Parentheses,79.1,0.4173945779463223,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Valid Palindrome,79.1,0.4996641838067071,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,63.3,0.5634941975469694,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another,"String, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Kth Largest Element in an Array,63.3,0.6752750569916155,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+HARD,Find Median from Data Stream,63.3,0.5287623037880377,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Valid Anagram,63.3,0.6604132102749246,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+HARD,Leetcodify Similar Friends,63.3,0.42606004740584674,https://leetcode.com/problems/leetcodify-similar-friends,Database
+HARD,Leetcodify Friends Recommendations,63.3,0.2765444909757996,https://leetcode.com/problems/leetcodify-friends-recommendations,Database

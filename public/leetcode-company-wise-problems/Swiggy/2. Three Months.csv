@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Integer to Roman,100.0,0.6765165039175172,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+EASY,Next Greater Element I,100.0,0.7381261065558333,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+EASY,Happy Number,100.0,0.5746137760215781,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+EASY,Fair Candy Swap,100.0,0.627596472529894,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
+MEDIUM,Count Good Meals,88.1,0.3104479717813051,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
+MEDIUM,Immediate Food Delivery II,88.1,0.5359700293069877,https://leetcode.com/problems/immediate-food-delivery-ii,Database
+MEDIUM,Daily Temperatures,88.1,0.6687772844895019,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"

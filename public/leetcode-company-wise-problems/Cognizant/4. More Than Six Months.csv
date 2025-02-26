@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Palindrome Number,100.0,0.5850840254812877,https://leetcode.com/problems/palindrome-number,Math
+EASY,Fibonacci Number,82.7,0.724362265510459,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+EASY,Two Sum,75.5,0.5490436739007976,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Longest Common Prefix,75.5,0.4474566898575377,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Valid Parentheses,75.5,0.41739453299742324,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Managers with at Least 5 Direct Reports,75.5,0.4920769772471537,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+MEDIUM,Reverse Integer,75.5,0.29779440203427554,https://leetcode.com/problems/reverse-integer,Math
+EASY,Merge Two Sorted Lists,65.4,0.6615292825409178,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Consecutive Numbers,65.4,0.452115196994041,https://leetcode.com/problems/consecutive-numbers,Database
+EASY,Binary Search,65.4,0.5905426693638819,https://leetcode.com/problems/binary-search,"Array, Binary Search"
+EASY,Move Zeroes,65.4,0.6247991764101285,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Counter,65.4,0.8195923039393523,https://leetcode.com/problems/counter,
+MEDIUM,3Sum,65.4,0.362789406393544,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Happy Number,65.4,0.5746145152308054,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Smallest Value of the Rearranged Number,65.4,0.5261998386125806,https://leetcode.com/problems/smallest-value-of-the-rearranged-number,"Math, Sorting"

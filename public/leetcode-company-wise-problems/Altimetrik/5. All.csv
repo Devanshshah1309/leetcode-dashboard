@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Maximum Number of Pairs in Array,100.0,0.7545632679852122,https://leetcode.com/problems/maximum-number-of-pairs-in-array,"Array, Hash Table, Counting"
+EASY,Two Sum,74.3,0.5490439983253597,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,3Sum,74.3,0.3627895837997104,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Longest Palindromic Substring,65.6,0.3518933943270547,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Valid Parentheses,65.6,0.4173938280622269,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Monthly Transactions I,65.6,0.5834426244843359,https://leetcode.com/problems/monthly-transactions-i,Database
+MEDIUM,Design a Food Rating System,65.6,0.4522586768591437,https://leetcode.com/problems/design-a-food-rating-system,"Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set"
+MEDIUM,Maximum Subarray,65.6,0.5164885524332036,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,65.6,0.3620170217901551,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Construct Target Array With Multiple Sums,100.0,0.3623599069570734,https://leetcode.com/problems/construct-target-array-with-multiple-sums,"Array, Heap (Priority Queue)"
+MEDIUM,Number of Subarrays with Bounded Maximum,65.2,0.53523074223548,https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum,"Array, Two Pointers"
+EASY,Substrings of Size Three with Distinct Characters,65.2,0.7487800523684837,https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters,"Hash Table, String, Sliding Window, Counting"
+MEDIUM,Encode Number,65.2,0.7004830917874396,https://leetcode.com/problems/encode-number,"Math, String, Bit Manipulation"
+MEDIUM,Sort the Matrix Diagonally,65.2,0.8293158774161697,https://leetcode.com/problems/sort-the-matrix-diagonally,"Array, Sorting, Matrix"
+MEDIUM,Get Biggest Three Rhombus Sums in a Grid,65.2,0.488644467606561,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid,"Array, Math, Sorting, Heap (Priority Queue), Matrix, Prefix Sum"
+MEDIUM,Finding Pairs With a Certain Sum,65.2,0.51565497396547,https://leetcode.com/problems/finding-pairs-with-a-certain-sum,"Array, Hash Table, Design"
+EASY,1-bit and 2-bit Characters,65.2,0.45202986065845946,https://leetcode.com/problems/1-bit-and-2-bit-characters,Array
+MEDIUM,Range Frequency Queries,65.2,0.41093283021388144,https://leetcode.com/problems/range-frequency-queries,"Array, Hash Table, Binary Search, Design, Segment Tree"
+EASY,Find Numbers with Even Number of Digits,65.2,0.7767326813233307,https://leetcode.com/problems/find-numbers-with-even-number-of-digits,"Array, Math"
+EASY,Maximum Number of Words You Can Type,65.2,0.7427102310088717,https://leetcode.com/problems/maximum-number-of-words-you-can-type,"Hash Table, String"
+MEDIUM,Exam Room,65.2,0.43655576105907234,https://leetcode.com/problems/exam-room,"Design, Heap (Priority Queue), Ordered Set"
+EASY,Find the K-Beauty of a Number,65.2,0.6116752581763012,https://leetcode.com/problems/find-the-k-beauty-of-a-number,"Math, String, Sliding Window"
+EASY,Subtract the Product and Sum of Digits of an Integer,65.2,0.8665570918139375,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer,Math
+MEDIUM,3Sum With Multiplicity,65.2,0.4565488669262254,https://leetcode.com/problems/3sum-with-multiplicity,"Array, Hash Table, Two Pointers, Sorting, Counting"
+MEDIUM,Subarray Sum Equals K,65.2,0.44790708233250376,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"

@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Reverse Nodes in k-Group,100.0,0.618205607070729,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+EASY,Maximum Depth of Binary Tree,89.5,0.7667895017774227,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,LRU Cache,89.5,0.4426543095290916,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

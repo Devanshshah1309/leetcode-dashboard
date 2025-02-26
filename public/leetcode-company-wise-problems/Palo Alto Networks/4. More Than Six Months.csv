@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3620170041689871,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,String Compression,100.0,0.5707258135379749,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Maximum Length of a Concatenated String with Unique Characters,91.9,0.5418725969782848,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters,"Array, String, Backtracking, Bit Manipulation"
+MEDIUM,Min Stack,91.9,0.557805844066374,https://leetcode.com/problems/min-stack,"Stack, Design"
+HARD,Median of Two Sorted Arrays,80.4,0.4274723966870615,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Meeting Rooms,80.4,0.5871602182149763,https://leetcode.com/problems/meeting-rooms,"Array, Sorting"
+MEDIUM,LRU Cache,80.4,0.44265352654450163,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Group Anagrams,80.4,0.7021298606268158,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Minimum Path Sum,80.4,0.6573779374976995,https://leetcode.com/problems/minimum-path-sum,"Array, Dynamic Programming, Matrix"
+MEDIUM,Binary Tree Level Order Traversal,80.4,0.6963934713382477,https://leetcode.com/problems/binary-tree-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Find the Longest Equal Subarray,80.4,0.3639825563540323,https://leetcode.com/problems/find-the-longest-equal-subarray,"Array, Hash Table, Binary Search, Sliding Window"

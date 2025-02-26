@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5486431758169912,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Design Hit Counter,80.5,0.6898155388342669,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Group Anagrams,76.9,0.7021299413613076,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Shortest Uncommon Substring in an Array,72.5,0.4703949770022633,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,66.8,0.35777757223973056,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,String Compression,66.8,0.5707254991985437,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+EASY,Valid Anagram,58.7,0.6604129530622376,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,String Compression III,58.7,0.6807317814469381,https://leetcode.com/problems/string-compression-iii,String
+HARD,Parse Lisp Expression,58.7,0.5230440843352501,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"

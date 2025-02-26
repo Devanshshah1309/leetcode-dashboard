@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Points Inside the Square,100.0,0.38839819574110984,https://leetcode.com/problems/maximum-points-inside-the-square,"Array, Hash Table, String, Binary Search, Sorting"
+EASY,Find Candidates for Data Scientist Position,100.0,0.7547900968783638,https://leetcode.com/problems/find-candidates-for-data-scientist-position,Database
+HARD,Maximize Items,100.0,0.7396520695860828,https://leetcode.com/problems/maximize-items,Database
+HARD,Count the Number of Powerful Integers,83.5,0.26625948370472874,https://leetcode.com/problems/count-the-number-of-powerful-integers,"Math, String, Dynamic Programming"
+MEDIUM,Minimize Length of Array Using Operations,83.5,0.3470848725420462,https://leetcode.com/problems/minimize-length-of-array-using-operations,"Array, Math, Greedy, Number Theory"
+MEDIUM,Maximum Subarray,71.3,0.5164880703399776,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,3Sum,61.7,0.3627890569980908,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Best Time to Buy and Sell Stock,61.7,0.5468398209143134,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+HARD,Trapping Rain Water,61.7,0.6412336975296917,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Minimum Cost to Make Array Equal,61.7,0.46123539893090476,https://leetcode.com/problems/minimum-cost-to-make-array-equal,"Array, Binary Search, Greedy, Sorting, Prefix Sum"
+MEDIUM,Next Permutation,61.7,0.4217881695555436,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+HARD,Chalkboard XOR Game,61.7,0.6200072621641249,https://leetcode.com/problems/chalkboard-xor-game,"Array, Math, Bit Manipulation, Brainteaser, Game Theory"

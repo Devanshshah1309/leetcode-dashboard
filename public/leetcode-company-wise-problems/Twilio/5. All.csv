@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximize Greatness of an Array,100.0,0.5857119622672197,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+EASY,Univalued Binary Tree,93.3,0.7179740120402933,https://leetcode.com/problems/univalued-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Reformat Date,91.3,0.6714050432530101,https://leetcode.com/problems/reformat-date,String
+HARD,Text Justification,65.3,0.46831761886735523,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Letter Combinations of a Phone Number,56.6,0.6290678288860048,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+HARD,First Missing Positive,56.6,0.4053000129459199,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,56.6,0.7803943882359217,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"
+MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,56.6,0.36218493262271045,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros,"Array, Greedy"
+MEDIUM,LRU Cache,56.6,0.4426543095290916,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Group Anagrams,56.6,0.7021298988672493,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Top K Frequent Elements,56.6,0.6397499032544446,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+HARD,Reconstruct Itinerary,56.6,0.4340879806548726,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+HARD,Wildcard Matching,56.6,0.2927077245936968,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"
+MEDIUM,Ways to Make a Fair Array,56.6,0.6414252907622787,https://leetcode.com/problems/ways-to-make-a-fair-array,"Array, Prefix Sum"

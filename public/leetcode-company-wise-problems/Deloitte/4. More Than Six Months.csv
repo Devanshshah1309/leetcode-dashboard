@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.5490436826437353,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Palindrome Number,80.6,0.58508342672337,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Reverse Integer,73.7,0.2977938598937523,https://leetcode.com/problems/reverse-integer,Math
+HARD,Merge k Sorted Lists,73.7,0.5556691743159733,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Valid Parentheses,64.0,0.4173946883701893,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Pascal's Triangle,64.0,0.7629539483629253,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Valid Palindrome,64.0,0.4996639261806213,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Consecutive Numbers,64.0,0.45211601687953473,https://leetcode.com/problems/consecutive-numbers,Database
+EASY,Climbing Stairs,64.0,0.5331668697864604,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Longest Palindromic Substring,64.0,0.35189279829111697,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Maximum Subarray,64.0,0.5164880849905868,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Change Null Values in a Table to the Previous Value,64.0,0.5123982766874102,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value,Database
+EASY,Majority Element,64.0,0.6545889079789441,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"

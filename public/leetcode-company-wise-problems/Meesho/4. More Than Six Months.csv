@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimum Edge Reversals So Every Node Is Reachable,100.0,0.5749742061217471,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph"
+HARD,Minimum Number of Taps to Open to Water a Garden,88.5,0.5069904157014941,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden,"Array, Dynamic Programming, Greedy"
+HARD,Making A Large Island,88.5,0.5409799454316303,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Number of Strings Which Can Be Rearranged to Contain Substring,83.1,0.556968983117393,https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring,"Math, Dynamic Programming, Combinatorics"
+HARD,Subsequence With the Minimum Score,76.1,0.32377574888704447,https://leetcode.com/problems/subsequence-with-the-minimum-score,"Two Pointers, String, Binary Search"
+MEDIUM,Delete and Earn,76.1,0.5661039945728081,https://leetcode.com/problems/delete-and-earn,"Array, Hash Table, Dynamic Programming"
+EASY,Two Sum,76.1,0.5490436306450127,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Find the Longest Equal Subarray,66.2,0.3639825563540323,https://leetcode.com/problems/find-the-longest-equal-subarray,"Array, Hash Table, Binary Search, Sliding Window"
+HARD,Minimum Degree of a Connected Trio in a Graph,66.2,0.4324260673552468,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph,Graph
+HARD,Number of Possible Sets of Closing Branches,66.2,0.5085548330071343,https://leetcode.com/problems/number-of-possible-sets-of-closing-branches,"Bit Manipulation, Graph, Heap (Priority Queue), Enumeration, Shortest Path"
+HARD,Count Complete Substrings,66.2,0.2756465295188378,https://leetcode.com/problems/count-complete-substrings,"Hash Table, String, Sliding Window"
+HARD,Painting the Walls,66.2,0.5031177015755329,https://leetcode.com/problems/painting-the-walls,"Array, Dynamic Programming"
+MEDIUM,Longest Non-decreasing Subarray From Two Arrays,66.2,0.2985631549627387,https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays,"Array, Dynamic Programming"

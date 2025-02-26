@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Parse Lisp Expression,100.0,0.5230440843352501,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
+MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.5901463453643973,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+MEDIUM,Valid Sudoku,90.0,0.6151433335454044,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+HARD,Integer to English Words,90.0,0.3423247697527872,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+EASY,Valid Palindrome II,90.0,0.42330860042782853,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"

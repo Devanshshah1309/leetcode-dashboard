@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,LFU Cache,100.0,0.45696485536329523,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Longest Repeating Substring,86.3,0.6264295861122481,https://leetcode.com/problems/longest-repeating-substring,"String, Binary Search, Dynamic Programming, Rolling Hash, Suffix Array, Hash Function"
+MEDIUM,Single Element in a Sorted Array,79.3,0.5915262222108703,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"
+MEDIUM,Course Schedule,79.3,0.4834602927778599,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,LRU Cache,79.3,0.4426522871511377,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Open the Lock,69.3,0.6055652405023894,https://leetcode.com/problems/open-the-lock,"Array, Hash Table, String, Breadth-First Search"
+MEDIUM,Number of Distinct Islands,69.3,0.6193511398893835,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+MEDIUM,Group Anagrams,69.3,0.7021304640097011,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,69.3,0.36201677149305395,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Find Median from Data Stream,69.3,0.5287630641635629,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Design Hit Counter,69.3,0.6898155388342669,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"

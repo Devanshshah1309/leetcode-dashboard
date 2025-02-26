@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Remove All Adjacent Duplicates In String,100.0,0.7092938406438152,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
+MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.59014429685066,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+MEDIUM,Implement Trie (Prefix Tree),87.2,0.6731811702992891,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+EASY,Sqrt(x),87.2,0.3994149592307301,https://leetcode.com/problems/sqrtx,"Math, Binary Search"
+MEDIUM,Insert Delete GetRandom O(1),77.0,0.5486437031307865,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+EASY,Perfect Number,77.0,0.4375314879209693,https://leetcode.com/problems/perfect-number,Math
+MEDIUM,Generate Parentheses,77.0,0.7639652479764625,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Search in Rotated Sorted Array,77.0,0.42217700143417036,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Merge Intervals,77.0,0.48695158074660294,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

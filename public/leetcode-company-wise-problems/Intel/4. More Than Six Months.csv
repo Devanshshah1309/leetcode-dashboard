@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Trapping Rain Water,100.0,0.64123299131419,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Number of Islands,93.7,0.6142360164840972,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Valid Parentheses,89.9,0.41739451695793967,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Copy List with Random Pointer,89.9,0.5927313597642262,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
+EASY,Best Time to Buy and Sell Stock,72.7,0.5468399019287264,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,72.7,0.36201699072813176,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Reverse Words in a String,72.7,0.4959210377563863,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+EASY,Two Sum,62.6,0.5490437133396823,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Roman to Integer,62.6,0.6397785267253393,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Best Time to Buy and Sell Stock II,62.6,0.6871135010674994,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Add Two Numbers,62.6,0.4527251095339502,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Count Primes,62.6,0.3438276357786879,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+MEDIUM,Reverse Integer,62.6,0.29779383497740114,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,LRU Cache,62.6,0.44265390505533214,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Maximum Nesting Depth of the Parentheses,62.6,0.841450549179367,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses,"String, Stack"
+MEDIUM,Find Consecutive Integers from a Data Stream,62.6,0.5023689464956513,https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream,"Hash Table, Design, Queue, Counting, Data Stream"

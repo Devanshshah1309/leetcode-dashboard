@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Kth Largest Element in an Array,100.0,0.675275778797392,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Distribute Candies Among Children II,100.0,0.35460642612041177,https://leetcode.com/problems/distribute-candies-among-children-ii,"Math, Combinatorics, Enumeration"
+EASY,Longest Unequal Adjacent Groups Subsequence I,100.0,0.6037296037296037,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i,"Array, String, Dynamic Programming, Greedy"
+EASY,Longest Harmonious Subsequence,100.0,0.5639449678480634,https://leetcode.com/problems/longest-harmonious-subsequence,"Array, Hash Table, Sliding Window, Sorting, Counting"
+MEDIUM,Largest 1-Bordered Square,100.0,0.5064337040681806,https://leetcode.com/problems/largest-1-bordered-square,"Array, Dynamic Programming, Matrix"
+EASY,Crawler Log Folder,100.0,0.7164143745251653,https://leetcode.com/problems/crawler-log-folder,"Array, String, Stack"
+MEDIUM,Managers with at Least 5 Direct Reports,100.0,0.49207618159749456,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+EASY,The Number of Employees Which Report to Each Employee,100.0,0.5134482820845965,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee,Database

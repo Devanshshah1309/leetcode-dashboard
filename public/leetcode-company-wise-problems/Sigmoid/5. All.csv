@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,House Robber,100.0,0.5192221753103413,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+MEDIUM,Binary Tree Zigzag Level Order Traversal,88.1,0.6087103369212431,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Product of Array Except Self,88.1,0.6731227998428316,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Group Anagrams,88.1,0.7021293422171255,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,Reverse Nodes in k-Group,88.1,0.6182083805652191,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"

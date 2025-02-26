@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.4426521832929739,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Trapping Rain Water,94.1,0.6412321856231067,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Valid Parentheses,94.1,0.41739410223454976,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Two Sum,86.5,0.5490432389311586,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,3Sum,75.8,0.3627880976916453,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Number of Islands,75.8,0.6142362882650024,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Block Placement Queries,75.8,0.15943027286463426,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+HARD,Word Ladder,75.8,0.4165564497904257,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"

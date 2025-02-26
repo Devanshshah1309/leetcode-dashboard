@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5486431758169912,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Shortest Uncommon Substring in an Array,81.7,0.4703949770022633,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
+MEDIUM,Group Anagrams,78.8,0.7021299413613076,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Valid Anagram,70.9,0.6604129530622376,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,70.9,0.35777757223973056,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Coin Change,65.4,0.4567930265541398,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,String Compression,57.6,0.5707254991985437,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Design Hit Counter,57.6,0.6898155388342669,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"

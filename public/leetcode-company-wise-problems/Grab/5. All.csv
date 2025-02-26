@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimum Cost For Tickets,100.0,0.6740114214454933,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+MEDIUM,Adding Two Negabinary Numbers,100.0,0.3696996297851227,https://leetcode.com/problems/adding-two-negabinary-numbers,"Array, Math"
+MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,100.0,0.4693996502817175,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters,"String, Dynamic Programming, Greedy"
+MEDIUM,Reconstruct a 2-Row Binary Matrix,100.0,0.4729534232789257,https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix,"Array, Greedy, Matrix"
+EASY,Two Sum,83.7,0.5490436646746419,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,71.7,0.3620169728070109,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,LRU Cache,71.7,0.44265403122549474,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Longest Palindromic Substring,62.2,0.3518928325237255,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,3Sum,62.2,0.36278875977656233,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Next Permutation,62.2,0.42178843605493993,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Search a 2D Matrix,62.2,0.5167897309451752,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
+MEDIUM,Kth Largest Element in an Array,62.2,0.6752749785738038,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"

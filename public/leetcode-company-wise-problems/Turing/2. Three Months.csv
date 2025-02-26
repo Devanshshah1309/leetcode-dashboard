@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3620170707594726,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Parentheses,81.9,0.4173947249631105,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Koko Eating Bananas,81.9,0.48764866597094036,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Minimum Length of Anagram Concatenation,81.9,0.4138382109408703,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
+MEDIUM,Find First and Last Position of Element in Sorted Array,81.9,0.4601847880377969,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+MEDIUM,Minimum Cost For Tickets,81.9,0.6740114214454933,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"

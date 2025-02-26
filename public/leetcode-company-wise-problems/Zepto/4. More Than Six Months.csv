@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Path Sum III,100.0,0.46033285324083445,https://leetcode.com/problems/path-sum-iii,"Tree, Depth-First Search, Binary Tree"
+HARD,Largest Rectangle in Histogram,91.8,0.4644761157380452,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+MEDIUM,Car Pooling,91.8,0.559655413481271,https://leetcode.com/problems/car-pooling,"Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum"
+HARD,Trapping Rain Water,80.2,0.6412337594432855,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Longest Palindromic Substring,80.2,0.3518939275286496,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Jump Game II,80.2,0.4107466441283907,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
+HARD,Maximum Sum BST in Binary Tree,80.2,0.43053321432151326,https://leetcode.com/problems/maximum-sum-bst-in-binary-tree,"Dynamic Programming, Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+MEDIUM,Word Search,80.2,0.44488048681085746,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Open the Lock,80.2,0.605565561014845,https://leetcode.com/problems/open-the-lock,"Array, Hash Table, String, Breadth-First Search"
+MEDIUM,Gas Station,80.2,0.45917290004745653,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,LRU Cache,80.2,0.44265640977115533,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Next Permutation,80.2,0.4217874093400579,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"

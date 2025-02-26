@@ -1,0 +1,20 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Product Subarray,100.0,0.34458853877939855,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+EASY,Add Strings,94.8,0.5170352223067011,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+MEDIUM,Longest Palindromic Substring,77.7,0.35189279829111697,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Team Scores in Football Tournament,66.7,0.557443992107695,https://leetcode.com/problems/team-scores-in-football-tournament,Database
+EASY,Maximum Number of Balloons,57.9,0.5972951197589452,https://leetcode.com/problems/maximum-number-of-balloons,"Hash Table, String, Counting"
+MEDIUM,Largest Magic Square,57.9,0.531135381856712,https://leetcode.com/problems/largest-magic-square,"Array, Matrix, Prefix Sum"
+MEDIUM,Design A Leaderboard,57.9,0.678901904493374,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"
+MEDIUM,Longest Happy String,57.9,0.6547525424640225,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,Minimum Moves to Reach Target Score,57.9,0.5126065396752177,https://leetcode.com/problems/minimum-moves-to-reach-target-score,"Math, Greedy"
+EASY,Delete Characters to Make Fancy String,57.9,0.7180214012018599,https://leetcode.com/problems/delete-characters-to-make-fancy-string,String
+MEDIUM,Best Sightseeing Pair,57.9,0.6260520831400778,https://leetcode.com/problems/best-sightseeing-pair,"Array, Dynamic Programming"
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,57.9,0.4610414592196976,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+EASY,Valid Palindrome,57.9,0.49966411944345984,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+HARD,Tournament Winners,57.9,0.4955982613684002,https://leetcode.com/problems/tournament-winners,Database
+MEDIUM,Maximum Number of Vowels in a Substring of Given Length,57.9,0.5971433884971263,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length,"String, Sliding Window"
+MEDIUM,Longest Increasing Subsequence,57.9,0.5706159447981158,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Palindromic Substrings,57.9,0.7118588632344799,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,57.9,0.6543618362001786,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Group Anagrams,57.9,0.7021297798923887,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Best Time to Buy and Sell Stock,100.0,0.5468383056368847,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,82.4,0.36201693388342276,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Text Justification,82.4,0.46831970456343974,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Top K Frequent Elements,82.4,0.6397487128952306,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+EASY,Move Zeroes,82.4,0.6247984253184822,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Check If Array Pairs Are Divisible by k,82.4,0.4624139408109007,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k,"Array, Hash Table, Counting"

@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Simple Bank System,100.0,0.6351038538538538,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+HARD,Block Placement Queries,97.9,0.15943027286463426,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,86.8,0.5667516712223446,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,"Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue"
+MEDIUM,Spiral Matrix,78.0,0.5271675607102301,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Candy Crush,78.0,0.7716069766743717,https://leetcode.com/problems/candy-crush,"Array, Two Pointers, Matrix, Simulation"
+HARD,Text Justification,71.8,0.4683156504443167,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Palindrome Number,63.0,0.5850830475289809,https://leetcode.com/problems/palindrome-number,Math
+EASY,Add Strings,63.0,0.5170343422369755,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+MEDIUM,Design File System,63.0,0.6370661705106477,https://leetcode.com/problems/design-file-system,"Hash Table, String, Design, Trie"
+EASY,Best Time to Buy and Sell Stock,63.0,0.5468401566970827,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

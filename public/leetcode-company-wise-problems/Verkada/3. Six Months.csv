@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Snapshot Array,100.0,0.36779940458981547,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+MEDIUM,Basic Calculator II,100.0,0.45124183236141363,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Remove Sub-Folders from the Filesystem,92.8,0.7564923940541733,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem,"Array, String, Depth-First Search, Trie"
+EASY,Transpose Matrix,92.8,0.7349402760207746,https://leetcode.com/problems/transpose-matrix,"Array, Matrix, Simulation"
+MEDIUM,LRU Cache,82.6,0.4426548401716294,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Interval List Intersections,82.6,0.723981213144783,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"

@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Create a Session Bar Chart,100.0,0.749393718928095,https://leetcode.com/problems/create-a-session-bar-chart,Database
+MEDIUM,Design a File Sharing System,100.0,0.4191969470715115,https://leetcode.com/problems/design-a-file-sharing-system,"Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Toss Strange Coins,100.0,0.5811829669746204,https://leetcode.com/problems/toss-strange-coins,"Array, Math, Dynamic Programming, Probability and Statistics"
+MEDIUM,LRU Cache,92.2,0.4426548401716294,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Reverse Vowels of a String,64.9,0.5667719376291595,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"

@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Maximum Profit in Job Scheduling,100.0,0.5434903562292439,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,Evaluate Division,100.0,0.6267565097809095,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+HARD,IPO,100.0,0.5301138852387209,https://leetcode.com/problems/ipo,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Next Greater Element II,100.0,0.6545790117047325,https://leetcode.com/problems/next-greater-element-ii,"Array, Stack, Monotonic Stack"
+MEDIUM,Task Scheduler,87.5,0.6094166611408414,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,87.5,0.35777757223973056,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Find a Peak Element II,87.5,0.526276663531268,https://leetcode.com/problems/find-a-peak-element-ii,"Array, Binary Search, Matrix"
+MEDIUM,Interleaving String,87.5,0.4129584764578455,https://leetcode.com/problems/interleaving-string,"String, Dynamic Programming"
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,87.5,0.623363108143266,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"
+MEDIUM,Apply Operations to Make Two Strings Equal,87.5,0.2728730012423356,https://leetcode.com/problems/apply-operations-to-make-two-strings-equal,"String, Dynamic Programming"
+MEDIUM,House Robber,87.5,0.51922158578155,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"

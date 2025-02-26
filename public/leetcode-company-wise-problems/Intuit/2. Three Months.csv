@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Valid Parentheses,100.0,0.41739415102575295,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Word Break,71.5,0.47787982558883163,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,LRU Cache,71.5,0.44265230946432593,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Minimum Limit of Balls in a Bag,71.5,0.6792385129074056,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag,"Array, Binary Search"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,71.5,0.6543599057346092,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"

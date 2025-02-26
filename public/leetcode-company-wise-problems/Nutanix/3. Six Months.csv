@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Min Cost to Connect All Points,100.0,0.682656488846914,https://leetcode.com/problems/min-cost-to-connect-all-points,"Array, Union Find, Graph, Minimum Spanning Tree"
+MEDIUM,Binary Tree Zigzag Level Order Traversal,100.0,0.608710146578235,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Group Anagrams,100.0,0.7021299413613076,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Boundary of Binary Tree,100.0,0.46686129764961487,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"

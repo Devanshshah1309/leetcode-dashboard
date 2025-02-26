@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Text Justification,100.0,0.468317126762962,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Word Search,100.0,0.4448797358136559,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"

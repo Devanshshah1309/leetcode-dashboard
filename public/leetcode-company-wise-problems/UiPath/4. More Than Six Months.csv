@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Islands,100.0,0.6142368709674778,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Longest Palindromic Substring,100.0,0.35189320171592153,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Sorting Three Groups,100.0,0.4190024928165021,https://leetcode.com/problems/sorting-three-groups,"Array, Binary Search, Dynamic Programming"
+HARD,Escape a Large Maze,100.0,0.3517230339367833,https://leetcode.com/problems/escape-a-large-maze,"Array, Hash Table, Depth-First Search, Breadth-First Search"
+MEDIUM,As Far from Land as Possible,100.0,0.5173984865409121,https://leetcode.com/problems/as-far-from-land-as-possible,"Array, Dynamic Programming, Breadth-First Search, Matrix"

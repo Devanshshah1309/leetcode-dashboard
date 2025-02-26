@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Best Time to Buy and Sell Stock,100.0,0.5468399049634525,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Happy String,88.8,0.6547525424640225,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,Exchange Seats,88.8,0.7193974966409731,https://leetcode.com/problems/exchange-seats,Database
+EASY,Two Sum,88.8,0.5490436026329337,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Remove Duplicates from Sorted Array,88.8,0.5922430326449151,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,Valid Anagram,88.8,0.6604130688776756,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Design SQL,100.0,0.7556154537286612,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"
+MEDIUM,Flatten Nested List Iterator,93.0,0.6509353522830934,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+HARD,Design Excel Sum Formula,83.2,0.43978304399385676,https://leetcode.com/problems/design-excel-sum-formula,"Array, Graph, Design, Topological Sort, Matrix"
+MEDIUM,Time Based Key-Value Store,83.2,0.49333051545419254,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Encode and Decode Strings,83.2,0.4880098306005831,https://leetcode.com/problems/encode-and-decode-strings,"Array, String, Design"

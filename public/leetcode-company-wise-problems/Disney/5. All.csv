@@ -1,0 +1,17 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.4426548401716294,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Merge Intervals,91.7,0.48695212001383825,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Ransom Note,91.7,0.6375961034610131,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+MEDIUM,Max Area of Island,91.7,0.7286319196287839,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Valid Parentheses,91.7,0.4173945150233807,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Search in Rotated Sorted Array,80.1,0.4221774907168844,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+EASY,Valid Word Abbreviation,80.1,0.3659295033499154,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
+MEDIUM,Number of Islands,80.1,0.6142366641255116,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Egg Drop With 2 Eggs and N Floors,80.1,0.7352829626418876,https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors,"Math, Dynamic Programming"
+EASY,Valid Anagram,80.1,0.6604132271400803,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Climbing Stairs,80.1,0.5331666537716345,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Generate Parentheses,80.1,0.7639661496552524,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Subarray Sum Equals K,80.1,0.44790690734990446,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Reverse Linked List II,80.1,0.4898380524021518,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+MEDIUM,Remove All Adjacent Duplicates in String II,80.1,0.59014429685066,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+EASY,Longest Common Prefix,80.1,0.4474570243604715,https://leetcode.com/problems/longest-common-prefix,"String, Trie"

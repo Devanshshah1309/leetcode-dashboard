@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Longest Common Prefix,100.0,0.44745640349818605,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Second Highest Salary,100.0,0.4280179451134983,https://leetcode.com/problems/second-highest-salary,Database

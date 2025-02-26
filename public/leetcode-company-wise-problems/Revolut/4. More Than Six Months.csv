@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Longest Common Prefix,100.0,0.44745680426244433,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Perfect Squares,84.3,0.5539171304516495,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search"
+EASY,Remove Duplicates from Sorted List,84.3,0.5423308204878171,https://leetcode.com/problems/remove-duplicates-from-sorted-list,Linked List
+MEDIUM,Find All Anagrams in a String,75.1,0.5176267558129884,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
+MEDIUM,Permutation in String,75.1,0.46770789155235626,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"
+MEDIUM,Reverse Linked List II,75.1,0.4898395548060644,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+MEDIUM,Binary Tree Level Order Traversal II,75.1,0.652499349427082,https://leetcode.com/problems/binary-tree-level-order-traversal-ii,"Tree, Breadth-First Search, Binary Tree"

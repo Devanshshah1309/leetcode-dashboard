@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Synonymous Sentences,100.0,0.5634344766930519,https://leetcode.com/problems/synonymous-sentences,"Array, Hash Table, String, Backtracking, Union Find"
+MEDIUM,Unique Paths II,88.5,0.42692133751393163,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
+HARD,Unique Paths III,84.5,0.8215321465221078,https://leetcode.com/problems/unique-paths-iii,"Array, Backtracking, Bit Manipulation, Matrix"
+MEDIUM,LRU Cache,79.5,0.4426551184738637,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Merge Intervals,73.0,0.48695254854314746,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Number of Islands,73.0,0.6142369444335468,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Two Sum,63.9,0.5490436558900701,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Palindrome Permutation II,63.9,0.4198832437431362,https://leetcode.com/problems/palindrome-permutation-ii,"Hash Table, String, Backtracking"
+MEDIUM,Unique Paths,63.9,0.6532768727615131,https://leetcode.com/problems/unique-paths,"Math, Dynamic Programming, Combinatorics"
+HARD,Robot Room Cleaner,63.9,0.7710779333787705,https://leetcode.com/problems/robot-room-cleaner,"Backtracking, Interactive"
+HARD,Word Ladder,63.9,0.4165577975985462,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,Meeting Rooms II,63.9,0.5187205232153529,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"

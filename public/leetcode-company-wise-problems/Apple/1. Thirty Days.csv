@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.4426503130259782,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Group Anagrams,89.4,0.7021297544118081,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Kth Largest Element in an Array,81.9,0.6752761067028973,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Rotate Array,81.9,0.4233805981107286,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,81.9,0.36201639961115106,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Merge Sorted Array,71.4,0.520980642220082,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Top K Frequent Elements,71.4,0.6397485774933825,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Decode String,71.4,0.6057493379609897,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+EASY,Valid Palindrome,71.4,0.49966250254267863,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Generate Parentheses,71.4,0.7639651378593735,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+EASY,Move Zeroes,71.4,0.6247984220833435,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Reverse Linked List,71.4,0.7852412141355881,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"

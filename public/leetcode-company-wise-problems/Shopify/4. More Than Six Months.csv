@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.44265403122549474,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Design a Text Editor,68.4,0.47092921689138756,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+EASY,Find Users With Valid E-Mails,68.4,0.4408155760707581,https://leetcode.com/problems/find-users-with-valid-e-mails,Database
+MEDIUM,Walking Robot Simulation,68.4,0.5807421900666555,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
+HARD,Design In-Memory File System,68.4,0.4802549196845431,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+MEDIUM,Design Tic-Tac-Toe,68.4,0.5840283676989214,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+MEDIUM,Walls and Gates,68.4,0.6246731539546004,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"

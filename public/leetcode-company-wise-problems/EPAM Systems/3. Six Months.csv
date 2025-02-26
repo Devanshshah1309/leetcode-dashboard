@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36201700787873853,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Longest Common Prefix,100.0,0.44745640349818605,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Valid Anagram,88.0,0.6604131650163899,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Longest Consecutive Sequence,88.0,0.4725522895830741,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union Find"
+MEDIUM,String Compression,88.0,0.5707263386358378,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Maximum Difference Between Node and Ancestor,88.0,0.7807069805505032,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor,"Tree, Depth-First Search, Binary Tree"
+EASY,Two Sum,88.0,0.5490436673166523,https://leetcode.com/problems/two-sum,"Array, Hash Table"

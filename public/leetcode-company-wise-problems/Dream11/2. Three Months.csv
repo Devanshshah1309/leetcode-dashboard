@@ -1,0 +1,2 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimum Number of Increments on Subarrays to Form a Target Array,100.0,0.7203040742959856,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array,"Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"

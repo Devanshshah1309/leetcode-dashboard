@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Task Scheduler,100.0,0.6094146020394129,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Reorganize String,89.4,0.5568969138344085,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Maximize Distance to Closest Person,84.3,0.4861956983091334,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Valid Parentheses,84.3,0.41739408297112335,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Design Hit Counter,68.6,0.6898155388342669,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+HARD,Subarrays with K Different Integers,68.6,0.6497495688101108,https://leetcode.com/problems/subarrays-with-k-different-integers,"Array, Hash Table, Sliding Window, Counting"
+EASY,Image Smoother,68.6,0.6808666285103496,https://leetcode.com/problems/image-smoother,"Array, Matrix"
+HARD,Block Placement Queries,68.6,0.15943027286463426,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Spiral Matrix,68.6,0.5271678092625995,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

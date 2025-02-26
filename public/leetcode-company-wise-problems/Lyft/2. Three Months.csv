@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Max Stack,100.0,0.4522052931456582,https://leetcode.com/problems/max-stack,"Linked List, Stack, Design, Doubly-Linked List, Ordered Set"
+MEDIUM,Rotting Oranges,90.3,0.5584685394747462,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Time Based Key-Value Store,90.3,0.49333051545419254,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"

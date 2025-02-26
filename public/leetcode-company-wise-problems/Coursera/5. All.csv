@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Number of Music Playlists,100.0,0.6023918014179731,https://leetcode.com/problems/number-of-music-playlists,"Math, Dynamic Programming, Combinatorics"
+HARD,Reaching Points,97.8,0.3352525516880398,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Highest Grade For Each Student,97.8,0.7098802457134584,https://leetcode.com/problems/highest-grade-for-each-student,Database
+MEDIUM,Minimum Moves to Equal Array Elements,97.8,0.5745492350747397,https://leetcode.com/problems/minimum-moves-to-equal-array-elements,"Array, Math"
+EASY,N-th Tribonacci Number,97.8,0.6367304061763492,https://leetcode.com/problems/n-th-tribonacci-number,"Math, Dynamic Programming, Memoization"
+MEDIUM,Minimum Increment to Make Array Unique,97.8,0.6019724169812775,https://leetcode.com/problems/minimum-increment-to-make-array-unique,"Array, Greedy, Sorting, Counting"
+HARD,Special Binary String,97.8,0.6317785362153963,https://leetcode.com/problems/special-binary-string,"String, Recursion"
+HARD,Text Justification,95.4,0.4683192124646207,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Rank Teams by Votes,86.0,0.5887329089554966,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"
+HARD,Wildcard Matching,70.1,0.29270292358379607,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"
+MEDIUM,Search Suggestions System,70.1,0.650483162623026,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+HARD,Regular Expression Matching,60.8,0.2889128781656705,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"

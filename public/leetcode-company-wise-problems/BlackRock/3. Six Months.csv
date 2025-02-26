@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Happy Number,100.0,0.5746144246584552,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Maximum Subtree of the Same Color,91.7,0.5588815789473685,https://leetcode.com/problems/maximum-subtree-of-the-same-color,"Array, Dynamic Programming, Tree, Depth-First Search"
+HARD,Find the Maximum Sum of Node Values,91.7,0.657064101178251,https://leetcode.com/problems/find-the-maximum-sum-of-node-values,"Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting"
+MEDIUM,Maximum Profit From Trading Stocks,66.9,0.46163566718003396,https://leetcode.com/problems/maximum-profit-from-trading-stocks,"Array, Dynamic Programming"
+EASY,Valid Parentheses,66.9,0.4173946941465062,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Number of Islands,58.5,0.6142362233276016,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

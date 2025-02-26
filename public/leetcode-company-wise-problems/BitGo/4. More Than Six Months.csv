@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Zigzag Conversion,100.0,0.5060146529256051,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Longest Substring Without Repeating Characters,89.1,0.3620171212831664,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Substring with At Most K Distinct Characters,89.1,0.49282963216735676,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
+HARD,Check if an Original String Exists Given Two Encoded Strings,89.1,0.4374103517856709,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"

@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Happy Number,100.0,0.5746146058029774,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Jump Game,100.0,0.3905652100088385,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Find Original Array From Doubled Array,92.3,0.4049338129619735,https://leetcode.com/problems/find-original-array-from-doubled-array,"Array, Hash Table, Greedy, Sorting"
+HARD,Guess the Word,92.3,0.3810676142552279,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Interactive, Game Theory"
+MEDIUM,Longest String Chain,92.3,0.6164383938734528,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+MEDIUM,Minimum Area Rectangle II,92.3,0.5538042044155159,https://leetcode.com/problems/minimum-area-rectangle-ii,"Array, Math, Geometry"
+MEDIUM,Find All Possible Recipes from Given Supplies,92.3,0.5057827778361896,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies,"Array, Hash Table, String, Graph, Topological Sort"
+MEDIUM,Group Anagrams,92.3,0.7021295461775792,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Minimum Knight Moves,92.3,0.4111180457994665,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+MEDIUM,Kth Largest Element in an Array,92.3,0.6752758572142341,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Time Needed to Inform All Employees,81.5,0.6015427132970493,https://leetcode.com/problems/time-needed-to-inform-all-employees,"Tree, Depth-First Search, Breadth-First Search"
+MEDIUM,Longest Common Subsequence,81.5,0.5793142534024981,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,Video Stitching,81.5,0.5174662544511001,https://leetcode.com/problems/video-stitching,"Array, Dynamic Programming, Greedy"
+MEDIUM,Minimum Area Rectangle,81.5,0.5475959080149945,https://leetcode.com/problems/minimum-area-rectangle,"Array, Hash Table, Math, Geometry, Sorting"

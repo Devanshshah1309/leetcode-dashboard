@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Final Prices With a Special Discount in a Shop,100.0,0.831623655646904,https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop,"Array, Stack, Monotonic Stack"
+MEDIUM,Furthest Building You Can Reach,73.0,0.5010476392577317,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,3Sum,73.0,0.3627899138631408,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+HARD,Minimum Number of Increments on Subarrays to Form a Target Array,73.0,0.7203040742959856,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array,"Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+MEDIUM,Minimum Falling Path Sum,63.9,0.620970184776494,https://leetcode.com/problems/minimum-falling-path-sum,"Array, Dynamic Programming, Matrix"
+HARD,Shortest Common Supersequence ,63.9,0.5972767618560774,https://leetcode.com/problems/shortest-common-supersequence,"String, Dynamic Programming"
+MEDIUM,Gas Station,63.9,0.4591723004580252,https://leetcode.com/problems/gas-station,"Array, Greedy"
+EASY,Best Time to Buy and Sell Stock,63.9,0.5468389864978028,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Number of Ways to Select Buildings,63.9,0.5064521515122603,https://leetcode.com/problems/number-of-ways-to-select-buildings,"String, Dynamic Programming, Prefix Sum"

@@ -1,0 +1,14 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36201698717529857,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Two Sum,97.8,0.5490437379763271,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Leetcodify Friends Recommendations,97.8,0.2765444909757996,https://leetcode.com/problems/leetcodify-friends-recommendations,Database
+HARD,Leetcodify Similar Friends,97.8,0.42606004740584674,https://leetcode.com/problems/leetcodify-similar-friends,Database
+EASY,Moving Average from Data Stream,97.8,0.7950187248229406,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Analyze User Website Visit Pattern,92.6,0.4314087076957792,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, Sorting"
+EASY,Valid Parentheses,85.9,0.4173945779463223,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Valid Palindrome,76.5,0.4996642483432339,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Kth Largest Element in an Array,76.5,0.6752750569916155,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,60.4,0.5634941975469694,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another,"String, Tree, Depth-First Search, Binary Tree"
+EASY,Valid Anagram,60.4,0.6604132102749246,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+HARD,Find Median from Data Stream,60.4,0.5287623037880377,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Ransom Note,60.4,0.6375960660024388,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"

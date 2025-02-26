@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Find Candidates for Data Scientist Position,100.0,0.7547900968783638,https://leetcode.com/problems/find-candidates-for-data-scientist-position,Database
+HARD,Maximize Items,100.0,0.7396520695860828,https://leetcode.com/problems/maximize-items,Database
+HARD,Minimum Cost to Make Array Equal,64.6,0.46123539893090476,https://leetcode.com/problems/minimum-cost-to-make-array-equal,"Array, Binary Search, Greedy, Sorting, Prefix Sum"
+MEDIUM,Next Permutation,64.6,0.4217881695555436,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+HARD,Chalkboard XOR Game,64.6,0.6200072621641249,https://leetcode.com/problems/chalkboard-xor-game,"Array, Math, Bit Manipulation, Brainteaser, Game Theory"

@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Remove Duplicate Letters,100.0,0.5074094659764623,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
+EASY,Roman to Integer,89.2,0.63977847472776,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Find the Index of the First Occurrence in a String,89.2,0.44346736574547374,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"

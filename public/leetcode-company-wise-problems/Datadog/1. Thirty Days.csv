@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Maximum Depth of N-ary Tree,100.0,0.7272791071416038,https://leetcode.com/problems/maximum-depth-of-n-ary-tree,"Tree, Depth-First Search, Breadth-First Search"
+EASY,Most Common Word,93.5,0.4446499952680748,https://leetcode.com/problems/most-common-word,"Array, Hash Table, String, Counting"

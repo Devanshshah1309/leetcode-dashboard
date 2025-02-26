@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Fair Candy Swap,100.0,0.627596472529894,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
+EASY,Happy Number,90.0,0.5746137760215781,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"

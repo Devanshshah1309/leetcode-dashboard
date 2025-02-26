@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Word Search II,100.0,0.36961197239896054,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
+HARD,Minimum Space Wasted From Packaging,92.7,0.3219096409486376,https://leetcode.com/problems/minimum-space-wasted-from-packaging,"Array, Binary Search, Sorting, Prefix Sum"
+HARD,Merge k Sorted Lists,82.5,0.5556696229326177,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,Design Memory Allocator,82.5,0.5356716203947054,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"

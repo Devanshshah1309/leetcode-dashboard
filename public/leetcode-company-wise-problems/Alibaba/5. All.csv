@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Split Array with Equal Sum,100.0,0.5017977851287214,https://leetcode.com/problems/split-array-with-equal-sum,"Array, Hash Table, Prefix Sum"
+MEDIUM,Split Concatenated Strings,100.0,0.43287419651056014,https://leetcode.com/problems/split-concatenated-strings,"Array, String, Greedy"
+MEDIUM,Path Sum IV,100.0,0.6257331147127452,https://leetcode.com/problems/path-sum-iv,"Array, Hash Table, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Valid Parenthesis String,100.0,0.3856586347408786,https://leetcode.com/problems/valid-parenthesis-string,"String, Dynamic Programming, Stack, Greedy"
+HARD,Trapping Rain Water,63.7,0.64123299131419,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Longest Substring Without Repeating Characters,63.7,0.36201699072813176,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

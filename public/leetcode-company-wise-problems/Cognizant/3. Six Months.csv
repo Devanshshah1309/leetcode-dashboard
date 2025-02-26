@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Count Subarrays of Length Three With a Condition,100.0,0.5297846313526338,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
+EASY,Product Sales Analysis I,65.7,0.8452223773058206,https://leetcode.com/problems/product-sales-analysis-i,Database
+MEDIUM,Maximum Subarray,65.7,0.5164884926421995,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Palindrome Number,65.7,0.5850840254812877,https://leetcode.com/problems/palindrome-number,Math
+EASY,Valid Anagram,65.7,0.6604131338124081,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

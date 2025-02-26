@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Design Hit Counter,100.0,0.6898155388342669,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,House Robber,93.7,0.5192200841724552,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+MEDIUM,Design Tic-Tac-Toe,93.7,0.5840260511971237,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+MEDIUM,House Robber II,89.7,0.43033471422742275,https://leetcode.com/problems/house-robber-ii,"Array, Dynamic Programming"
+MEDIUM,IP to CIDR,84.8,0.5569822461277146,https://leetcode.com/problems/ip-to-cidr,"String, Bit Manipulation"
+MEDIUM,Snapshot Array,78.4,0.3677984166127515,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+MEDIUM,String to Integer (atoi),69.5,0.18614470491969753,https://leetcode.com/problems/string-to-integer-atoi,String

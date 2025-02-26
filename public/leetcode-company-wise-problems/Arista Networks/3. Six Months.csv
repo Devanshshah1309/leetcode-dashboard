@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Restore IP Addresses,100.0,0.5221686079151773,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
+HARD,Reverse Nodes in k-Group,95.5,0.618205607070729,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Reverse Linked List II,90.1,0.48983706698580376,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+EASY,Contains Duplicate II,83.1,0.4787977499684974,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
+MEDIUM,Palindromic Substrings,73.2,0.7118588632344799,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+EASY,Maximum Depth of Binary Tree,73.2,0.7667895017774227,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,LRU Cache,73.2,0.4426543095290916,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

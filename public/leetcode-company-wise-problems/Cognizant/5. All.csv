@@ -1,0 +1,23 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Palindrome Number,100.0,0.5850840254812877,https://leetcode.com/problems/palindrome-number,Math
+EASY,Count Subarrays of Length Three With a Condition,100.0,0.5297846313526338,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
+MEDIUM,Smallest Value of the Rearranged Number,100.0,0.5261998386125806,https://leetcode.com/problems/smallest-value-of-the-rearranged-number,"Math, Sorting"
+EASY,Fibonacci Number,82.8,0.724362265510459,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+EASY,Two Sum,77.3,0.5490436892278292,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Managers with at Least 5 Direct Reports,77.3,0.4920769772471537,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+EASY,Valid Anagram,70.2,0.6604131338124081,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Longest Common Prefix,70.2,0.4474566898575377,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Valid Parentheses,70.2,0.4173945760116026,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Maximum Subarray,70.2,0.5164884926421995,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Binary Search,70.2,0.5905426693638819,https://leetcode.com/problems/binary-search,"Array, Binary Search"
+MEDIUM,Reverse Integer,70.2,0.29779440203427554,https://leetcode.com/problems/reverse-integer,Math
+EASY,Remove Duplicates from Sorted Array,60.2,0.5922426178966431,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,Product Sales Analysis I,60.2,0.8452223773058206,https://leetcode.com/problems/product-sales-analysis-i,Database
+MEDIUM,Count Primes,60.2,0.3438275068874024,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+EASY,Move Zeroes,60.2,0.6247991764101285,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Counter,60.2,0.8195923039393523,https://leetcode.com/problems/counter,
+MEDIUM,3Sum,60.2,0.362789406393544,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Happy Number,60.2,0.5746145152308054,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Consecutive Numbers,60.2,0.452115196994041,https://leetcode.com/problems/consecutive-numbers,Database
+EASY,Merge Two Sorted Lists,60.2,0.6615292825409178,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Longest Palindromic Substring,60.2,0.35189304680282196,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

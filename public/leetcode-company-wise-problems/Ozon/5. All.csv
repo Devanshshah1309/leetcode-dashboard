@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Valid Parentheses,100.0,0.41739429159710595,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Monotonic Array,81.4,0.615318789087398,https://leetcode.com/problems/monotonic-array,Array
+EASY,Squares of a Sorted Array,81.4,0.7306330306807047,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+HARD,Department Top Three Salaries,81.4,0.5659794799980363,https://leetcode.com/problems/department-top-three-salaries,Database
+EASY,Two Sum,74.8,0.5490435558770645,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Move Zeroes,74.8,0.6247990304982137,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Merge Intervals,74.8,0.4869523155919001,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Remove Duplicates from Sorted Array,65.5,0.5922427147484349,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Number of Islands,65.5,0.614237091365601,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Reverse Linked List,65.5,0.7852424324896908,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+EASY,Merge Sorted Array,65.5,0.5209787512824633,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,First Unique Character in a String,65.5,0.6313308088719051,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+EASY,Invert Binary Tree,65.5,0.7849384173142735,https://leetcode.com/problems/invert-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Best Time to Buy and Sell Stock,65.5,0.5468389864978028,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,100.0,0.6143545295035092,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation"
+MEDIUM,Largest Palindromic Number,89.6,0.3614798883520863,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"
+MEDIUM,Maximum Number of Potholes That Can Be Fixed,89.6,0.5323372902169464,https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed,"String, Greedy, Sorting"
+MEDIUM,Number of Spaces Cleaning Robot Cleaned,89.6,0.623877341544778,https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned,"Array, Matrix, Simulation"
+MEDIUM,Best Time to Buy and Sell Stock II,89.6,0.6871147834572526,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"

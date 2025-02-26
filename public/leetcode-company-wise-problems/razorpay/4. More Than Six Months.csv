@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Merge Intervals,100.0,0.4869522609570961,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Smallest Good Base,88.7,0.4261181163584734,https://leetcode.com/problems/smallest-good-base,"Math, Binary Search"
+HARD,Minimum Total Cost to Make Arrays Unequal,88.7,0.41443434095191284,https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal,"Array, Hash Table, Greedy, Counting"
+MEDIUM,Most Beautiful Item for Each Query,88.7,0.6209730104936507,https://leetcode.com/problems/most-beautiful-item-for-each-query,"Array, Binary Search, Sorting"
+MEDIUM,Two Best Non-Overlapping Events,88.7,0.6120658222703065,https://leetcode.com/problems/two-best-non-overlapping-events,"Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue)"
+EASY,Excel Sheet Column Number,88.7,0.6522496659419837,https://leetcode.com/problems/excel-sheet-column-number,"Math, String"

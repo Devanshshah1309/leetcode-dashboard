@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Shortest and Lexicographically Smallest Beautiful String,100.0,0.3965492818086523,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string,"String, Sliding Window"
+HARD,Verbal Arithmetic Puzzle,83.9,0.3469000992690191,https://leetcode.com/problems/verbal-arithmetic-puzzle,"Array, Math, String, Backtracking"
+MEDIUM,Find the Safest Path in a Grid,72.1,0.4859376056732655,https://leetcode.com/problems/find-the-safest-path-in-a-grid,"Array, Binary Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+MEDIUM,Minimizing Array After Replacing Pairs With Their Product,72.1,0.3961136023916293,https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product,"Array, Dynamic Programming, Greedy"
+MEDIUM,Count and Say,62.8,0.5771801455411542,https://leetcode.com/problems/count-and-say,String
+MEDIUM,Best Time to Buy and Sell Stock II,62.8,0.6871138687569632,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Maximum Number of Weeks for Which You Can Work,62.8,0.41047459064006153,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work,"Array, Greedy"
+MEDIUM,Water and Jug Problem,62.8,0.42381865749254183,https://leetcode.com/problems/water-and-jug-problem,"Math, Depth-First Search, Breadth-First Search"
+MEDIUM,Product of Array Except Self,62.8,0.6731219712568478,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+EASY,Rotate String,62.8,0.6345401141057543,https://leetcode.com/problems/rotate-string,"String, String Matching"
+EASY,Merge Strings Alternately,62.8,0.8169992982715961,https://leetcode.com/problems/merge-strings-alternately,"Two Pointers, String"
+EASY,Kth Largest Element in a Stream,62.8,0.5962685453112394,https://leetcode.com/problems/kth-largest-element-in-a-stream,"Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream"

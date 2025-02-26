@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Insert Interval,100.0,0.42842410115584445,https://leetcode.com/problems/insert-interval,Array
+HARD,Merge k Sorted Lists,88.9,0.5556693060901198,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+HARD,Sliding Window Maximum,88.9,0.4719100950586004,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+EASY,Merge Two Binary Trees,88.9,0.7926316642734725,https://leetcode.com/problems/merge-two-binary-trees,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+HARD,Text Justification,88.9,0.468317126762962,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Stock Price Fluctuation ,88.9,0.4863141914276341,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+MEDIUM,Word Break,88.9,0.47787768344757864,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"

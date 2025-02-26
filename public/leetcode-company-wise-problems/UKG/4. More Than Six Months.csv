@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Consecutive Sequence,100.0,0.4725516524556672,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union Find"
+EASY,Best Time to Buy and Sell Stock,100.0,0.5468383650355099,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

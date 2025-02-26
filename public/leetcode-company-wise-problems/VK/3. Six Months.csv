@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximize Distance to Closest Person,100.0,0.4861957528126709,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Valid Parentheses,100.0,0.4173938697876968,https://leetcode.com/problems/valid-parentheses,"String, Stack"

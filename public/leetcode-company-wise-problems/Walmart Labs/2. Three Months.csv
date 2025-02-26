@@ -1,0 +1,13 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3620165962893114,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Trapping Rain Water II,68.5,0.5863626085459817,https://leetcode.com/problems/trapping-rain-water-ii,"Array, Breadth-First Search, Heap (Priority Queue), Matrix"
+HARD,Max Stack,68.5,0.4522052931456582,https://leetcode.com/problems/max-stack,"Linked List, Stack, Design, Doubly-Linked List, Ordered Set"
+HARD,Count Different Palindromic Subsequences,68.5,0.4627023912417171,https://leetcode.com/problems/count-different-palindromic-subsequences,"String, Dynamic Programming"
+HARD,LFU Cache,68.5,0.45696398877821004,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Valid Sudoku,68.5,0.615142257934855,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Kth Largest Element in an Array,68.5,0.6752764800846194,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Generate Parentheses,68.5,0.7639649157170115,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Merge Intervals,68.5,0.48695114210994406,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Two Sum,68.5,0.5490430716737353,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Search in Rotated Sorted Array,68.5,0.4221767508701931,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Flatten Nested List Iterator,68.5,0.6509348798494989,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"

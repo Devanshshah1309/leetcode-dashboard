@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Trapping Rain Water,100.0,0.6412321292974945,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Permutations III,100.0,0.8437956204379562,https://leetcode.com/problems/permutations-iii,"Array, Backtracking"
+EASY,First Unique Character in a String,79.3,0.6313299219650327,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+EASY,High Five,72.8,0.7442473713153691,https://leetcode.com/problems/high-five,"Array, Hash Table, Sorting, Heap (Priority Queue)"
+MEDIUM,Longest Substring Without Repeating Characters,72.8,0.3620163341046025,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Optimal Account Balancing,63.6,0.49684325288666437,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,String Compression,63.6,0.570725602777312,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Binary Tree Cameras,63.6,0.46969545499986365,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

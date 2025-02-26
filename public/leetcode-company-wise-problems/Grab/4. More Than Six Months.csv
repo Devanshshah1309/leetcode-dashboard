@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.5490436646746419,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,LRU Cache,86.7,0.44265403122549474,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,3Sum,76.2,0.362788706826256,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Next Permutation,76.2,0.42178843605493993,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Search a 2D Matrix,76.2,0.5167897309451752,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,76.2,0.3620169728070109,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Palindromic Substring,76.2,0.3518928325237255,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Minimum Cost For Tickets,76.2,0.6740114214454933,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+MEDIUM,Reconstruct a 2-Row Binary Matrix,76.2,0.4729534232789257,https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix,"Array, Greedy, Matrix"
+MEDIUM,Adding Two Negabinary Numbers,76.2,0.3696996297851227,https://leetcode.com/problems/adding-two-negabinary-numbers,"Array, Math"
+MEDIUM,Minimum Number of Food Buckets to Feed the Hamsters,76.2,0.4693996502817175,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters,"String, Dynamic Programming, Greedy"

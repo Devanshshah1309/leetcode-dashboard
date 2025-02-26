@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.44265390505533214,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Time Based Key-Value Store,84.4,0.4933309750246035,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Wildcard Matching,77.5,0.2927084876684688,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"
+HARD,Regular Expression Matching,72.9,0.2889122660808432,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+HARD,Sudoku Solver,72.9,0.6364581134979933,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+MEDIUM,Debounce,72.9,0.9156079341275006,https://leetcode.com/problems/debounce,
+MEDIUM,Valid Sudoku,72.9,0.6151420300535619,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+HARD,Count Subarrays With Median K,58.7,0.4483462637811352,https://leetcode.com/problems/count-subarrays-with-median-k,"Array, Hash Table, Prefix Sum"
+HARD,Minimum Time to Eat All Grains,58.7,0.3918884009299923,https://leetcode.com/problems/minimum-time-to-eat-all-grains,"Array, Two Pointers, Binary Search, Sorting"
+HARD,Number of Atoms,58.7,0.6505921190302317,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"

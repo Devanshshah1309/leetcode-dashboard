@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Container With Most Water,100.0,0.5703981445360641,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,Reverse Linked List,100.0,0.7852422141979107,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Number of Islands,100.0,0.6142355892397219,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Two Sum,87.9,0.5490434587960566,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Trapping Rain Water,87.9,0.6412320709906587,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Maximal Square,87.9,0.4808704471031026,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Maximum Subarray,87.9,0.5164880215351575,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Leftmost Column with at Least a One,87.9,0.5483426330435284,https://leetcode.com/problems/leftmost-column-with-at-least-a-one,"Array, Binary Search, Matrix, Interactive"
+MEDIUM,Kth Largest Element in an Array,87.9,0.6752753546121127,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Binary Search Tree to Greater Sum Tree,87.9,0.8831608866704795,https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"

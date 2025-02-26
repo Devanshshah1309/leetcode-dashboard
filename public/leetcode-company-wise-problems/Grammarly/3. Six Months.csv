@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Merge Intervals,100.0,0.48695175043302336,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Remove All Adjacent Duplicates In String,94.9,0.7092938406438152,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
+MEDIUM,Remove All Adjacent Duplicates in String II,91.8,0.59014429685066,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+MEDIUM,Insert Delete GetRandom O(1),88.3,0.5486437031307865,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Search in Rotated Sorted Array,84.1,0.42217700143417036,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Vowel Spellchecker,79.0,0.5147436936832596,https://leetcode.com/problems/vowel-spellchecker,"Array, Hash Table, String"
+EASY,Sqrt(x),79.0,0.3994149592307301,https://leetcode.com/problems/sqrtx,"Math, Binary Search"
+EASY,Climbing Stairs,72.5,0.5331668787589571,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Implement Trie (Prefix Tree),72.5,0.6731811702992891,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+EASY,Perfect Number,72.5,0.4375314879209693,https://leetcode.com/problems/perfect-number,Math
+EASY,Sum of Left Leaves,63.2,0.6133612434703682,https://leetcode.com/problems/sum-of-left-leaves,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+HARD,Special Binary String,63.2,0.6317785362153963,https://leetcode.com/problems/special-binary-string,"String, Recursion"
+MEDIUM,Decode the Slanted Ciphertext,63.2,0.4895002034237787,https://leetcode.com/problems/decode-the-slanted-ciphertext,"String, Simulation"
+MEDIUM,Maximum Palindromes After Operations,63.2,0.43088176619231283,https://leetcode.com/problems/maximum-palindromes-after-operations,"Array, Hash Table, String, Greedy, Sorting, Counting"
+MEDIUM,Generate Parentheses,63.2,0.7639652479764625,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"

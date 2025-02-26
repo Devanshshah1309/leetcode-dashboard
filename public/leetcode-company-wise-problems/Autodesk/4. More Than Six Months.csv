@@ -1,0 +1,15 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Group Anagrams,100.0,0.7021297161516806,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Number of Changing Keys,100.0,0.8027631631792441,https://leetcode.com/problems/number-of-changing-keys,String
+MEDIUM,Combination Sum,87.3,0.7376260366745836,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+HARD,Sliding Window Maximum,87.3,0.47190991339869975,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Block Placement Queries,87.3,0.15943027286463426,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Valid Sudoku,87.3,0.6151425662994263,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Number of Subarrays That Match a Pattern I,87.3,0.6696061279493121,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i,"Array, Rolling Hash, String Matching, Hash Function"
+HARD,Count Prefix and Suffix Pairs II,87.3,0.2762030613368572,https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii,"Array, String, Trie, Rolling Hash, String Matching, Hash Function"
+EASY,Count Prefix and Suffix Pairs I,87.3,0.7780803876296706,https://leetcode.com/problems/count-prefix-and-suffix-pairs-i,"Array, String, Trie, Rolling Hash, String Matching, Hash Function"
+EASY,Distribute Elements Into Two Arrays I,87.3,0.7276128859140443,https://leetcode.com/problems/distribute-elements-into-two-arrays-i,"Array, Simulation"
+HARD,Distribute Elements Into Two Arrays II,87.3,0.27635770726200926,https://leetcode.com/problems/distribute-elements-into-two-arrays-ii,"Array, Binary Indexed Tree, Segment Tree, Simulation"
+HARD,Number of Subarrays That Match a Pattern II,87.3,0.32179949272460284,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii,"Array, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Product of Array Except Self,87.3,0.6731217824322807,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Restore IP Addresses,87.3,0.5221695781105175,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"

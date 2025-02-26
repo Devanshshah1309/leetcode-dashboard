@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Find the Index of the First Occurrence in a String,100.0,0.44346642133151415,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
+MEDIUM,Sort Colors,100.0,0.6618217982857587,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+HARD,Non-negative Integers without Consecutive Ones,100.0,0.4016376605915745,https://leetcode.com/problems/non-negative-integers-without-consecutive-ones,Dynamic Programming
+MEDIUM,Clone Graph,100.0,0.6093614704416048,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Word Break,100.0,0.47787233259072415,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Top K Frequent Words,100.0,0.5884884857819926,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+HARD,Shortest Palindrome,100.0,0.40228076007245245,https://leetcode.com/problems/shortest-palindrome,"String, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Kth Largest Element in an Array,100.0,0.6752760924645328,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+HARD,Alien Dictionary,100.0,0.36363940785694593,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+HARD,Basic Calculator III,100.0,0.5178466307498566,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
+MEDIUM,Inorder Successor in BST,100.0,0.5045444510658069,https://leetcode.com/problems/inorder-successor-in-bst,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+MEDIUM,Top K Frequent Elements,100.0,0.6397484285966046,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5486454299363136,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Longest Repeating Character Replacement,100.0,0.5628800098919196,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+MEDIUM,Find All Duplicates in an Array,100.0,0.7619855604188684,https://leetcode.com/problems/find-all-duplicates-in-an-array,"Array, Hash Table"

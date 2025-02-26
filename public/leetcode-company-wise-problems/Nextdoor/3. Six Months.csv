@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Compare Version Numbers,100.0,0.4189105882445567,https://leetcode.com/problems/compare-version-numbers,"Two Pointers, String"
+MEDIUM,Merge Intervals,88.5,0.4869524680157776,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

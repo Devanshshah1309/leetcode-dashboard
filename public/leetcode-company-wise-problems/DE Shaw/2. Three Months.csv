@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimum Runes to Add to Cast Spell,100.0,0.4754521963824289,https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell,"Array, Depth-First Search, Breadth-First Search, Union Find, Graph, Topological Sort"
+HARD,Binary Tree Cameras,74.1,0.4696970614965162,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+HARD,Consecutive Numbers Sum,65.4,0.42002020312329363,https://leetcode.com/problems/consecutive-numbers-sum,"Math, Enumeration"
+MEDIUM,Flatten Nested List Iterator,65.4,0.6509348798494989,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Maximum Product Subarray,65.4,0.34458840619390607,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"

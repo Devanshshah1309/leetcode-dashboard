@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Integer to Roman,100.0,0.6765185024515964,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Valid Sudoku,87.0,0.6151428234386577,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+HARD,First Missing Positive,70.8,0.4052973976611256,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+HARD,Count of Smaller Numbers After Self,70.8,0.4269999850997571,https://leetcode.com/problems/count-of-smaller-numbers-after-self,"Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set"
+MEDIUM,Rotate Array,70.8,0.42338132317964083,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,Path with Maximum Gold,70.8,0.6806431134011486,https://leetcode.com/problems/path-with-maximum-gold,"Array, Backtracking, Matrix"
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,70.8,0.6143545295035092,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation"
+MEDIUM,Boundary of Binary Tree,70.8,0.4668633520246145,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Longest Happy String,70.8,0.6547525424640225,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,Decode String,70.8,0.6057507492056958,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"

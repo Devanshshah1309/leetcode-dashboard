@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Find the Safest Path in a Grid,100.0,0.4859376056732655,https://leetcode.com/problems/find-the-safest-path-in-a-grid,"Array, Binary Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+HARD,Time Taken to Cross the Door,87.9,0.49039222072302613,https://leetcode.com/problems/time-taken-to-cross-the-door,"Array, Queue, Simulation"
+MEDIUM,Asteroid Collision,71.7,0.4504235977746731,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Design a Stack With Increment Operation,62.2,0.8049774159447548,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+MEDIUM,Minimum Knight Moves,54.7,0.4111180457994665,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search

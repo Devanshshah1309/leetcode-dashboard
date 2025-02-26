@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Find the Count of Monotonic Pairs II,100.0,0.23110939529007124,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii,"Array, Math, Dynamic Programming, Combinatorics, Prefix Sum"
+MEDIUM,Group Anagrams,100.0,0.7021294951960041,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

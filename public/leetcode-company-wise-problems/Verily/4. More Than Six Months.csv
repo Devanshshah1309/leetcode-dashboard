@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Happy Number,100.0,0.5746146058029774,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Jump Game,100.0,0.3905652100088385,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Kth Largest Element in an Array,92.9,0.6752758572142341,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Longest Common Subsequence,82.9,0.5793142534024981,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,Time Needed to Inform All Employees,82.9,0.6015427132970493,https://leetcode.com/problems/time-needed-to-inform-all-employees,"Tree, Depth-First Search, Breadth-First Search"
+MEDIUM,Group Anagrams,82.9,0.7021295461775792,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

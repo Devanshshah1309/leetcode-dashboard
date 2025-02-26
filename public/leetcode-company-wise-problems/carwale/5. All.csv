@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Find Mirror Score of a String,100.0,0.35481238324960557,https://leetcode.com/problems/find-mirror-score-of-a-string,"Hash Table, String, Stack, Simulation"
+MEDIUM,Zigzag Conversion,79.8,0.506014939915557,https://leetcode.com/problems/zigzag-conversion,String
+HARD,Trapping Rain Water,79.8,0.6412337594432855,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,LRU Cache,73.4,0.44265640977115533,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Best Time to Buy and Sell Stock,73.4,0.5468384157469753,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Minimum Time Difference,64.5,0.6224443038250889,https://leetcode.com/problems/minimum-time-difference,"Array, Math, String, Sorting"
+MEDIUM,Linked List Cycle II,64.5,0.5381005384282835,https://leetcode.com/problems/linked-list-cycle-ii,"Hash Table, Linked List, Two Pointers"

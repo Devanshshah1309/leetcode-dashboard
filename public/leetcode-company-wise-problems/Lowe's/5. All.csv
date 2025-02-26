@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,The Number of Good Subsets,100.0,0.35588622800899017,https://leetcode.com/problems/the-number-of-good-subsets,"Array, Math, Dynamic Programming, Bit Manipulation, Bitmask"
+HARD,Groups of Strings,100.0,0.2636211985114847,https://leetcode.com/problems/groups-of-strings,"String, Bit Manipulation, Union Find"
+EASY,Find the Original Typed String I,100.0,0.571937212863706,https://leetcode.com/problems/find-the-original-typed-string-i,String
+EASY,Minimum Operations to Make Array Values Equal to K,100.0,0.5270561399062222,https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k,"Array, Hash Table"
+MEDIUM,Maximum Subarray,64.7,0.5164885097181717,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

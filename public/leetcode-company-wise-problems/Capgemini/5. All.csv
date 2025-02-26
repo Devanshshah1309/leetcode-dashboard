@@ -1,0 +1,21 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.5490436026329337,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Number of Unique Subjects Taught by Each Teacher,95.8,0.8926594164209941,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher,Database
+EASY,Count Elements With Maximum Frequency,79.6,0.7827766090273145,https://leetcode.com/problems/count-elements-with-maximum-frequency,"Array, Hash Table, Counting"
+EASY,Remove Duplicates from Sorted Array,79.6,0.5922430326449151,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,Best Time to Buy and Sell Stock,79.6,0.5468399049634525,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Longest Common Prefix,67.8,0.44745689801555405,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Fibonacci Number,67.8,0.724363118006719,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+MEDIUM,Reverse Words in a String,58.4,0.49592186194523413,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Rotate Array,58.4,0.42338154768481895,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+EASY,Valid Palindrome,58.4,0.4996636689021237,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Add Two Numbers,58.4,0.4527254687282738,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Nth Highest Salary,58.4,0.37929507432751786,https://leetcode.com/problems/nth-highest-salary,Database
+MEDIUM,Remove Nth Node From End of List,58.4,0.4792741099388286,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
+EASY,Palindrome Number,58.4,0.5850837224015029,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Longest Happy String,58.4,0.6547525424640225,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,Longest Substring Without Repeating Characters,58.4,0.36201710490363337,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Median of Two Sorted Arrays,58.4,0.42747265067806467,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Group Anagrams,58.4,0.7021297968859372,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Exchange Seats,58.4,0.7193974966409731,https://leetcode.com/problems/exchange-seats,Database
+EASY,Valid Anagram,58.4,0.6604130688776756,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

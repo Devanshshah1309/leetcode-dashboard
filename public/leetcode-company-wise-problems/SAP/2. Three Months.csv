@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Islands,100.0,0.6142355892397219,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Leftmost Column with at Least a One,100.0,0.5483426330435284,https://leetcode.com/problems/leftmost-column-with-at-least-a-one,"Array, Binary Search, Matrix, Interactive"

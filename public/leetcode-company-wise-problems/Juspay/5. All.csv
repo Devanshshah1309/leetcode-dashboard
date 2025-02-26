@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Longest Cycle in a Graph,100.0,0.49769378679029386,https://leetcode.com/problems/longest-cycle-in-a-graph,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Find Closest Node to Given Two Nodes,93.2,0.4576365632870246,https://leetcode.com/problems/find-closest-node-to-given-two-nodes,"Depth-First Search, Graph"
+MEDIUM,Operations on Tree,91.8,0.4682508574228319,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+MEDIUM,Node With Highest Edge Score,88.7,0.481300648041292,https://leetcode.com/problems/node-with-highest-edge-score,"Hash Table, Graph"
+MEDIUM,Longest Subsequence With Decreasing Adjacent Difference,85.0,0.13393395298670813,https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference,"Array, Dynamic Programming"
+MEDIUM,Set Matrix Zeroes,60.6,0.5874374312992657,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,60.6,0.3620171580527133,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

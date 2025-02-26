@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.4426522871511377,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Longest Repeating Substring,100.0,0.6264295861122481,https://leetcode.com/problems/longest-repeating-substring,"String, Binary Search, Dynamic Programming, Rolling Hash, Suffix Array, Hash Function"
+HARD,Find Median from Data Stream,100.0,0.5287630641635629,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Design Hit Counter,100.0,0.6898155388342669,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"

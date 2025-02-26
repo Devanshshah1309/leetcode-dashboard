@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Divisible Substrings,100.0,0.7327438676554479,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+HARD,Reaching Points,83.7,0.3352525516880398,https://leetcode.com/problems/reaching-points,Math
+EASY,Backspace String Compare,74.2,0.4936917193400568,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Last Person to Fit in the Bus,74.2,0.6812858852074407,https://leetcode.com/problems/last-person-to-fit-in-the-bus,Database
+MEDIUM,Group Anagrams,74.2,0.7021297798923887,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

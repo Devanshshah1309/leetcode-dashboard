@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Valid Parentheses,100.0,0.4173944399030397,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Roman to Integer,82.3,0.639779352213195,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Longest Common Prefix,82.3,0.44745668696230817,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Group Anagrams,82.3,0.7021295546833606,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

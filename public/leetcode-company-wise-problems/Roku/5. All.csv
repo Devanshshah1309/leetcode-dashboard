@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Substring with Concatenation of All Words,100.0,0.3273965012269453,https://leetcode.com/problems/substring-with-concatenation-of-all-words,"Hash Table, String, Sliding Window"
+MEDIUM,Decode String,100.0,0.6057515552726824,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+HARD,Sliding Window Maximum,100.0,0.47190991339869975,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Simplify Path,87.8,0.46275591728747606,https://leetcode.com/problems/simplify-path,"String, Stack"
+EASY,Last Stone Weight,87.8,0.6577185268665438,https://leetcode.com/problems/last-stone-weight,"Array, Heap (Priority Queue)"
+MEDIUM,Asteroid Collision,87.8,0.450423180683107,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,LRU Cache,87.8,0.44265496634126605,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Backspace String Compare,87.8,0.4936901061125259,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Multiply Strings,87.8,0.41714564078994953,https://leetcode.com/problems/multiply-strings,"Math, String, Simulation"
+EASY,Maximum Product of Three Numbers,87.8,0.45239831802309083,https://leetcode.com/problems/maximum-product-of-three-numbers,"Array, Math, Sorting"

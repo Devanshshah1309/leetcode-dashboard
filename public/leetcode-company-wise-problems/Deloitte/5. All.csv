@@ -1,0 +1,22 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.5490436826437353,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Change Null Values in a Table to the Previous Value,100.0,0.5123982766874102,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value,Database
+EASY,Palindrome Number,77.5,0.58508342672337,https://leetcode.com/problems/palindrome-number,Math
+HARD,Merge k Sorted Lists,77.5,0.5556691743159733,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Valid Parentheses,70.4,0.4173946883701893,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Valid Palindrome,70.4,0.4996639261806213,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Reverse Integer,70.4,0.2977938598937523,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,Longest Palindromic Substring,70.4,0.3518927640585151,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Article Views I,60.5,0.7709078766381099,https://leetcode.com/problems/article-views-i,Database
+HARD,Department Top Three Salaries,60.5,0.5659794307211133,https://leetcode.com/problems/department-top-three-salaries,Database
+EASY,Reverse Linked List,60.5,0.7852424421027507,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Maximum Subarray,60.5,0.5164880276243812,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Longest Common Prefix,60.5,0.44745640349818605,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Majority Element,60.5,0.6545889079789441,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+EASY,Find Customer Referee,60.5,0.7152385529966818,https://leetcode.com/problems/find-customer-referee,Database
+MEDIUM,Managers with at Least 5 Direct Reports,60.5,0.49207528003628836,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+MEDIUM,Consecutive Numbers,60.5,0.45211601687953473,https://leetcode.com/problems/consecutive-numbers,Database
+EASY,Best Time to Buy and Sell Stock,60.5,0.5468396889790086,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Pascal's Triangle,60.5,0.7629539483629253,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Climbing Stairs,60.5,0.5331668697864604,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Second Highest Salary,60.5,0.42801817689650645,https://leetcode.com/problems/second-highest-salary,Database

@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.44265230946432593,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Regular Expression Matching,73.7,0.2889129660117211,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+MEDIUM,Add Two Numbers,73.7,0.45272527144546904,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Combination Sum II,64.1,0.5710440718798897,https://leetcode.com/problems/combination-sum-ii,"Array, Backtracking"
+MEDIUM,Maximal Square,64.1,0.4808694804828047,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Minimum Area Rectangle,64.1,0.5475943760412857,https://leetcode.com/problems/minimum-area-rectangle,"Array, Hash Table, Math, Geometry, Sorting"
+MEDIUM,Number of Good Leaf Nodes Pairs,64.1,0.7184808584414974,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Rotting Oranges,64.1,0.5584678795463683,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Insert Delete GetRandom O(1),64.1,0.5486430483407203,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+EASY,Climbing Stairs,64.1,0.5331671572459262,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Longest Common Subsequence,64.1,0.5793122266526973,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"

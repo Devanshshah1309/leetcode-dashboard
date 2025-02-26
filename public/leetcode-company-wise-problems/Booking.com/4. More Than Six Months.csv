@@ -1,0 +1,16 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Reward Top K Students,100.0,0.4554648517406848,https://leetcode.com/problems/reward-top-k-students,"Array, Hash Table, String, Sorting, Heap (Priority Queue)"
+HARD,Sliding Window Maximum,93.5,0.47191027671864083,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Binary Tree Maximum Path Sum,66.5,0.4084013447065115,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Maximal Square,66.5,0.48087141371980074,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Longest Increasing Subsequence,66.5,0.5706158237022748,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+EASY,Backspace String Compare,66.5,0.4936917193400568,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Least Number of Unique Integers after K Removals,58.0,0.6323147569068437,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals,"Array, Hash Table, Greedy, Sorting, Counting"
+MEDIUM,Minimum Knight Moves,58.0,0.41111520768420723,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+MEDIUM,Number of Islands,58.0,0.6142360899506368,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Reconstruct Itinerary,58.0,0.4340879806548726,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+MEDIUM,K Highest Ranked Items Within a Price Range,58.0,0.4397077037404013,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range,"Array, Breadth-First Search, Sorting, Heap (Priority Queue), Matrix"
+EASY,Two Out of Three,58.0,0.7608004730403932,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
+MEDIUM,Coloring A Border,58.0,0.49549902631997944,https://leetcode.com/problems/coloring-a-border,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Order Two Columns Independently,58.0,0.6077803515465322,https://leetcode.com/problems/order-two-columns-independently,Database
+HARD,Delete Duplicate Folders in System,58.0,0.5482259437978995,https://leetcode.com/problems/delete-duplicate-folders-in-system,"Array, Hash Table, String, Trie, Hash Function"

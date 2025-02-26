@@ -1,0 +1,19 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Reward Top K Students,100.0,0.4554648517406848,https://leetcode.com/problems/reward-top-k-students,"Array, Hash Table, String, Sorting, Heap (Priority Queue)"
+HARD,Sliding Window Maximum,86.2,0.47191027671864083,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Delete Duplicate Folders in System,80.9,0.5482259437978995,https://leetcode.com/problems/delete-duplicate-folders-in-system,"Array, Hash Table, String, Trie, Hash Function"
+MEDIUM,K Highest Ranked Items Within a Price Range,80.9,0.4397077037404013,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range,"Array, Breadth-First Search, Sorting, Heap (Priority Queue), Matrix"
+MEDIUM,Order Two Columns Independently,80.9,0.6077803515465322,https://leetcode.com/problems/order-two-columns-independently,Database
+MEDIUM,Coloring A Border,80.9,0.49549902631997944,https://leetcode.com/problems/coloring-a-border,"Array, Depth-First Search, Breadth-First Search, Matrix"
+EASY,Two Out of Three,80.9,0.7608004730403932,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
+MEDIUM,Maximal Square,67.1,0.48087141371980074,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+HARD,Reconstruct Itinerary,62.7,0.4340879806548726,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+MEDIUM,Integer to Roman,62.7,0.676516639633887,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+HARD,Binary Tree Maximum Path Sum,57.0,0.4084013447065115,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Least Number of Unique Integers after K Removals,57.0,0.6323147569068437,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals,"Array, Hash Table, Greedy, Sorting, Counting"
+MEDIUM,Longest Increasing Subsequence,57.0,0.5706158237022748,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+EASY,Backspace String Compare,57.0,0.4936917193400568,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Number of Islands,48.9,0.6142360899506368,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Minimum Knight Moves,48.9,0.41111520768420723,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+MEDIUM,Count Number of Nice Subarrays,48.9,0.7226166916223788,https://leetcode.com/problems/count-number-of-nice-subarrays,"Array, Hash Table, Math, Sliding Window, Prefix Sum"
+EASY,Valid Parentheses,48.9,0.41739457216993964,https://leetcode.com/problems/valid-parentheses,"String, Stack"

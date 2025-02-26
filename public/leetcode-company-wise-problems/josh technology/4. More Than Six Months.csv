@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Add Two Numbers,100.0,0.4527264374999583,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Remove Zero Sum Consecutive Nodes from Linked List,100.0,0.5274933034418934,https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list,"Hash Table, Linked List"
+MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,92.0,0.6961918899677356,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
+MEDIUM,Number of Good Leaf Nodes Pairs,92.0,0.7184808584414974,https://leetcode.com/problems/number-of-good-leaf-nodes-pairs,"Tree, Depth-First Search, Binary Tree"
+EASY,Best Time to Buy and Sell Stock,92.0,0.5468392067195919,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,80.7,0.36201718138145494,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Move Zeroes,80.7,0.6247991556806572,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Construct Smallest Number From DI String,80.7,0.7654001265222204,https://leetcode.com/problems/construct-smallest-number-from-di-string,"String, Backtracking, Stack, Greedy"
+MEDIUM,Find the Substring With Maximum Cost,80.7,0.5703062972713218,https://leetcode.com/problems/find-the-substring-with-maximum-cost,"Array, Hash Table, String, Dynamic Programming"
+MEDIUM,Merge Nodes in Between Zeros,80.7,0.8970896115638787,https://leetcode.com/problems/merge-nodes-in-between-zeros,"Linked List, Simulation"

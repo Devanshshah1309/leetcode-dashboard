@@ -1,0 +1,2 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Divide Nodes Into the Maximum Number of Groups,100.0,0.6783628224259219,https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups,"Depth-First Search, Breadth-First Search, Union Find, Graph"

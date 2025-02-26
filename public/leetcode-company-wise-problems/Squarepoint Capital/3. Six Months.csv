@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Search Suggestions System,100.0,0.6504823639858733,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+MEDIUM,Subarray Product Less Than K,87.3,0.5229983366566461,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Longest Increasing Subsequence,77.2,0.5706160658938887,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Maximum Subarray,77.2,0.5164880239617395,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

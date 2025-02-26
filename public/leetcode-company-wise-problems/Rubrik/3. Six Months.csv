@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Points After Enemy Battles,100.0,0.3229353867393452,https://leetcode.com/problems/maximum-points-after-enemy-battles,"Array, Greedy"
+MEDIUM,Find Longest Special Substring That Occurs Thrice II,63.7,0.38716000980151916,https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii,"Hash Table, String, Binary Search, Sliding Window, Counting"
+HARD,Maximize Subarray Sum After Removing All Occurrences of One Element,63.7,0.18557405036278277,https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element,"Array, Dynamic Programming, Segment Tree"
+HARD,Manhattan Distances of All Arrangements of Pieces,63.7,0.35386908458576577,https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces,"Math, Combinatorics"
+HARD,Scramble String,38.4,0.41557513616389685,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
+HARD,Remove Invalid Parentheses,38.4,0.48866178294655827,https://leetcode.com/problems/remove-invalid-parentheses,"String, Backtracking, Breadth-First Search"
+MEDIUM,4Sum,38.4,0.37475016718909954,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+MEDIUM,Insert Delete GetRandom O(1),38.4,0.5486434481813687,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Stamping the Grid,38.4,0.326809230397487,https://leetcode.com/problems/stamping-the-grid,"Array, Greedy, Matrix, Prefix Sum"

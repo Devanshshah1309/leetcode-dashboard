@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Count the Number of Arrays with K Matching Adjacent Elements,100.0,0.3716353582174514,https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements,"Math, Combinatorics"
+MEDIUM,Maximum Amount of Money Robot Can Earn,100.0,0.2968649542295564,https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn,"Array, Dynamic Programming, Matrix"
+HARD,Frequencies of Shortest Supersequences,100.0,0.2329282902618518,https://leetcode.com/problems/frequencies-of-shortest-supersequences,"Array, String, Bit Manipulation, Graph, Topological Sort, Enumeration"
+MEDIUM,Queue Reconstruction by Height,73.0,0.7397032337528031,https://leetcode.com/problems/queue-reconstruction-by-height,"Array, Binary Indexed Tree, Segment Tree, Sorting"
+MEDIUM,Split Array into Consecutive Subsequences,73.0,0.5138119467694345,https://leetcode.com/problems/split-array-into-consecutive-subsequences,"Array, Hash Table, Greedy, Heap (Priority Queue)"
+MEDIUM,Most Stones Removed with Same Row or Column,63.9,0.621070246833758,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column,"Hash Table, Depth-First Search, Union Find, Graph"
+MEDIUM,Make Lexicographically Smallest Array by Swapping Elements,63.9,0.604216330376169,https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements,"Array, Union Find, Sorting"
+HARD,Sliding Window Maximum,63.9,0.4719098701459679,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Find Duplicate Subtrees,63.9,0.5991374317958308,https://leetcode.com/problems/find-duplicate-subtrees,"Hash Table, Tree, Depth-First Search, Binary Tree"

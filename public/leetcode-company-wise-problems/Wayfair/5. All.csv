@@ -1,0 +1,25 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Product Subarray,100.0,0.34458853877939855,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+MEDIUM,Largest Magic Square,94.3,0.531135381856712,https://leetcode.com/problems/largest-magic-square,"Array, Matrix, Prefix Sum"
+EASY,Add Strings,94.3,0.5170352223067011,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+MEDIUM,Team Scores in Football Tournament,94.3,0.557443992107695,https://leetcode.com/problems/team-scores-in-football-tournament,Database
+MEDIUM,Minimum Moves to Reach Target Score,94.3,0.5126065396752177,https://leetcode.com/problems/minimum-moves-to-reach-target-score,"Math, Greedy"
+MEDIUM,Longest Happy String,92.0,0.6547525424640225,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,Best Sightseeing Pair,92.0,0.6260520831400778,https://leetcode.com/problems/best-sightseeing-pair,"Array, Dynamic Programming"
+MEDIUM,Design A Leaderboard,92.0,0.678901904493374,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,92.0,0.4610414592196976,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+EASY,Maximum Number of Balloons,92.0,0.5972951197589452,https://leetcode.com/problems/maximum-number-of-balloons,"Hash Table, String, Counting"
+EASY,Delete Characters to Make Fancy String,92.0,0.7180214012018599,https://leetcode.com/problems/delete-characters-to-make-fancy-string,String
+HARD,Tournament Winners,92.0,0.4955982613684002,https://leetcode.com/problems/tournament-winners,Database
+MEDIUM,Number of Divisible Substrings,83.5,0.7327438676554479,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+MEDIUM,Longest Palindromic Substring,75.5,0.35189279829111697,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Group Anagrams,70.2,0.7021297798923887,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,Reaching Points,63.4,0.3352525516880398,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Maximum Number of Vowels in a Substring of Given Length,53.8,0.5971433884971263,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length,"String, Sliding Window"
+MEDIUM,Longest Increasing Subsequence,53.8,0.5706159447981158,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,53.8,0.6543618362001786,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Palindromic Substrings,53.8,0.7118588632344799,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+EASY,Valid Palindrome,53.8,0.49966411944345984,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Backspace String Compare,53.8,0.4936917193400568,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Reverse Words in a String,53.8,0.49592139098050825,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Last Person to Fit in the Bus,53.8,0.6812858852074407,https://leetcode.com/problems/last-person-to-fit-in-the-bus,Database

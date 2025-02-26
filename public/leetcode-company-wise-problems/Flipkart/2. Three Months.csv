@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Cherry Pickup II,100.0,0.718542487769718,https://leetcode.com/problems/cherry-pickup-ii,"Array, Dynamic Programming, Matrix"
+HARD,Create Maximum Number,100.0,0.31691758928985037,https://leetcode.com/problems/create-maximum-number,"Array, Two Pointers, Stack, Greedy, Monotonic Stack"
+HARD,Trapping Rain Water,100.0,0.6412322607235349,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Ways to Split Array Into Good Subarrays,100.0,0.3424251235824368,https://leetcode.com/problems/ways-to-split-array-into-good-subarrays,"Array, Math, Dynamic Programming"

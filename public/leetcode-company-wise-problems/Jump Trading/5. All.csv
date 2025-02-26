@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Happy Number,100.0,0.5746142851426723,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+HARD,Check If It Is a Good Array,89.3,0.6085252753951321,https://leetcode.com/problems/check-if-it-is-a-good-array,"Array, Math, Number Theory"
+HARD,Super Egg Drop,89.3,0.2839623495338945,https://leetcode.com/problems/super-egg-drop,"Math, Binary Search, Dynamic Programming"
+HARD,Best Time to Buy and Sell Stock IV,89.3,0.4585060164608368,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv,"Array, Dynamic Programming"
+EASY,Subtree of Another Tree,89.3,0.4938003591597553,https://leetcode.com/problems/subtree-of-another-tree,"Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"

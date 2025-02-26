@@ -1,0 +1,11 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimum Total Cost to Make Arrays Unequal,100.0,0.41443434095191284,https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal,"Array, Hash Table, Greedy, Counting"
+MEDIUM,Two Best Non-Overlapping Events,100.0,0.6120658222703065,https://leetcode.com/problems/two-best-non-overlapping-events,"Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue)"
+MEDIUM,Most Beautiful Item for Each Query,100.0,0.6209730104936507,https://leetcode.com/problems/most-beautiful-item-for-each-query,"Array, Binary Search, Sorting"
+MEDIUM,Merge Intervals,79.2,0.48695218043004007,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Shortest Subarray to be Removed to Make Array Sorted,79.2,0.5172401518219074,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted,"Array, Two Pointers, Binary Search, Stack, Monotonic Stack"
+HARD,Smallest Good Base,63.4,0.4261181163584734,https://leetcode.com/problems/smallest-good-base,"Math, Binary Search"
+EASY,Excel Sheet Column Number,63.4,0.6522496659419837,https://leetcode.com/problems/excel-sheet-column-number,"Math, String"
+MEDIUM,Decode String,63.4,0.6057500161974076,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+EASY,Two Sum,63.4,0.5490438204195565,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Container With Most Water,63.4,0.5703987877072788,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

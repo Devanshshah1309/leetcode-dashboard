@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Sum of Even Numbers After Queries,100.0,0.6835387757977037,https://leetcode.com/problems/sum-of-even-numbers-after-queries,"Array, Simulation"
+EASY,Binary Tree Tilt,100.0,0.6344546403468848,https://leetcode.com/problems/binary-tree-tilt,"Tree, Depth-First Search, Binary Tree"
+HARD,Minimum Cost to Split an Array,97.9,0.41685225296683853,https://leetcode.com/problems/minimum-cost-to-split-an-array,"Array, Hash Table, Dynamic Programming, Counting"
+MEDIUM,Find Players With Zero or One Losses,97.9,0.7280317495975139,https://leetcode.com/problems/find-players-with-zero-or-one-losses,"Array, Hash Table, Sorting, Counting"
+MEDIUM,Minimum Moves to Equal Array Elements,97.9,0.5745492350747397,https://leetcode.com/problems/minimum-moves-to-equal-array-elements,"Array, Math"
+HARD,Merge k Sorted Lists,71.4,0.5556691479126634,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Check if Every Row and Column Contains All Numbers,62.5,0.5249410863331901,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"

@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Shortest Palindrome,100.0,0.4022821323419671,https://leetcode.com/problems/shortest-palindrome,"String, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Reverse Words in a String,88.2,0.4959199742690348,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Maximum Subarray,88.2,0.5164879714940742,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Reverse String,88.2,0.7945713999866953,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
+MEDIUM,Number of Islands,88.2,0.6142359537294844,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Divide Nodes Into the Maximum Number of Groups,88.2,0.6783628224259219,https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups,"Depth-First Search, Breadth-First Search, Union Find, Graph"

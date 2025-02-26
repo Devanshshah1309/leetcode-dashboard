@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Maximum Number of Visible Points,100.0,0.374552135966927,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
+MEDIUM,Heaters,86.9,0.3926991696605163,https://leetcode.com/problems/heaters,"Array, Two Pointers, Binary Search, Sorting"
+EASY,Shortest Word Distance,86.9,0.6571912219526547,https://leetcode.com/problems/shortest-word-distance,"Array, String"
+MEDIUM,Group Anagrams,80.1,0.7021298606268158,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Flip Equivalent Binary Trees,80.1,0.6976801065033171,https://leetcode.com/problems/flip-equivalent-binary-trees,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Search Suggestions System,80.1,0.6504834403572112,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+HARD,Basic Calculator,70.6,0.44667200957501135,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
+MEDIUM,Daily Temperatures,70.6,0.6687772844895019,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Basic Calculator II,70.6,0.4512416968930498,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Game of Life,70.6,0.7081540292728866,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+MEDIUM,Flatten Binary Tree to Linked List,70.6,0.6750826002329897,https://leetcode.com/problems/flatten-binary-tree-to-linked-list,"Linked List, Stack, Tree, Depth-First Search, Binary Tree"

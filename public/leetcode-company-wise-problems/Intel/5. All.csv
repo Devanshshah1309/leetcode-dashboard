@@ -1,0 +1,23 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Maximum Nesting Depth of the Parentheses,100.0,0.841450549179367,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses,"String, Stack"
+MEDIUM,Find Consecutive Integers from a Data Stream,100.0,0.5023689464956513,https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream,"Hash Table, Design, Queue, Counting, Data Stream"
+HARD,Trapping Rain Water,100.0,0.64123299131419,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Copy List with Random Pointer,94.4,0.5927313597642262,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
+MEDIUM,Number of Islands,91.1,0.6142360164840972,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Valid Parentheses,87.2,0.41739455997226316,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Two Sum,69.9,0.5490437133396823,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Reverse Words in a String,69.9,0.4959210377563863,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Longest Substring Without Repeating Characters,69.9,0.36201699072813176,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Count Primes,69.9,0.3438276357786879,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+MEDIUM,Best Time to Buy and Sell Stock II,69.9,0.6871135010674994,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+EASY,Best Time to Buy and Sell Stock,69.9,0.5468399019287264,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Reverse Integer,59.8,0.29779383497740114,https://leetcode.com/problems/reverse-integer,Math
+EASY,Roman to Integer,59.8,0.6397785267253393,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Add Two Numbers,59.8,0.4527251095339502,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+EASY,Climbing Stairs,59.8,0.533166896703965,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+EASY,Merge Two Sorted Lists,59.8,0.6615288646279504,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,LRU Cache,59.8,0.44265390505533214,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Palindrome Number,59.8,0.5850832788840394,https://leetcode.com/problems/palindrome-number,Math
+EASY,Remove Duplicates from Sorted Array,59.8,0.5922427662758792,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Container With Most Water,59.8,0.5703981049850341,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,Merge Sorted Array,59.8,0.520979597548126,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"

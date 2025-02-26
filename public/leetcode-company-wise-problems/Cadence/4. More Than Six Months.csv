@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Sudoku Solver,100.0,0.6364598056654601,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+EASY,Island Perimeter,100.0,0.7330276876743802,https://leetcode.com/problems/island-perimeter,"Array, Depth-First Search, Breadth-First Search, Matrix"
+EASY,Two Sum,100.0,0.5490438404222091,https://leetcode.com/problems/two-sum,"Array, Hash Table"

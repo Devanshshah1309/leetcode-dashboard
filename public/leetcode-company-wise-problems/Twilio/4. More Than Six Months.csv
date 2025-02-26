@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximize Greatness of an Array,100.0,0.5857119622672197,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+HARD,Text Justification,86.6,0.46831761886735523,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Univalued Binary Tree,86.6,0.7179740120402933,https://leetcode.com/problems/univalued-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Letter Combinations of a Phone Number,76.0,0.6290678288860048,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,LRU Cache,76.0,0.4426543095290916,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,76.0,0.7803943882359217,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"
+MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,76.0,0.36218493262271045,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros,"Array, Greedy"
+EASY,Reformat Date,76.0,0.6714050432530101,https://leetcode.com/problems/reformat-date,String

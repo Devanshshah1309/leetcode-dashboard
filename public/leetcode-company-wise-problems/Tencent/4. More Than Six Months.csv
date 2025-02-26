@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimum Factorization,100.0,0.3372036071335965,https://leetcode.com/problems/minimum-factorization,"Math, Greedy"
+MEDIUM,Jump Game,100.0,0.39056516158022697,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Merge Intervals,100.0,0.48695200496244356,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Debounce,100.0,0.9156079341275006,https://leetcode.com/problems/debounce,
+EASY,Next Greater Element I,100.0,0.7381261065558333,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+MEDIUM,Department Highest Salary,100.0,0.53752405009502,https://leetcode.com/problems/department-highest-salary,Database
+MEDIUM,Circle and Rectangle Overlapping,100.0,0.48513432283719427,https://leetcode.com/problems/circle-and-rectangle-overlapping,"Math, Geometry"
+MEDIUM,Minimum Remove to Make Valid Parentheses,100.0,0.7012737957000597,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"
+EASY,Valid Parentheses,100.0,0.4173947191868089,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Remove Boxes,100.0,0.4818391453715469,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
+MEDIUM,LRU Cache,100.0,0.4426543095290916,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Remove Duplicates from Sorted List II,100.0,0.49124562394768895,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii,"Linked List, Two Pointers"
+HARD,Alien Dictionary,100.0,0.36363847118816667,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Immediate Food Delivery II,100.0,0.535968526414902,https://leetcode.com/problems/immediate-food-delivery-ii,Database
+MEDIUM,Implement Rand10() Using Rand7(),100.0,0.4585369483789348,https://leetcode.com/problems/implement-rand10-using-rand7,"Math, Rejection Sampling, Randomized, Probability and Statistics"
+HARD,Candy,100.0,0.4429363556434068,https://leetcode.com/problems/candy,"Array, Greedy"
+MEDIUM,Unique Paths II,100.0,0.42692133751393163,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"

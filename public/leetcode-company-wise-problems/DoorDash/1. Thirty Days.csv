@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Search Suggestions System,100.0,0.6504832667221015,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+MEDIUM,Walls and Gates,95.6,0.624669706656476,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"
+MEDIUM,Koko Eating Bananas,90.3,0.48764643005832164,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+HARD,Binary Tree Maximum Path Sum,83.3,0.40840174179077754,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Next Greater Element III,83.3,0.3438380267798669,https://leetcode.com/problems/next-greater-element-iii,"Math, Two Pointers, String"
+MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,83.3,0.8215680220341716,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram,"Hash Table, String, Counting"
+HARD,Longest Increasing Path in a Matrix,83.3,0.5481465251701478,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"
+HARD,Maximum Profit in Job Scheduling,73.6,0.5434907675212194,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Minimize Malware Spread,73.6,0.42152685277524005,https://leetcode.com/problems/minimize-malware-spread,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union Find, Graph"

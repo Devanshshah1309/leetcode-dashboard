@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimum Number of Operations to Make X and Y Equal,100.0,0.4753827648773725,https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal,"Dynamic Programming, Breadth-First Search, Memoization"
+MEDIUM,Minimum Cost For Tickets,65.1,0.6740119149875865,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+MEDIUM,LRU Cache,65.1,0.44265585317116707,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Best Time to Buy and Sell Stock,65.1,0.546838831538414,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+HARD,Trapping Rain Water,65.1,0.6412338984485476,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Maximum Good Subarray Sum,65.1,0.19886173691119755,https://leetcode.com/problems/maximum-good-subarray-sum,"Array, Hash Table, Prefix Sum"
+MEDIUM,Best Time to Buy and Sell Stock II,65.1,0.6871143261077765,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"

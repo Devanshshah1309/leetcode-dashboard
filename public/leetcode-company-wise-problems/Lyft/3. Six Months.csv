@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Time Based Key-Value Store,100.0,0.49333051545419254,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Minimum Window Substring,96.4,0.44536555844804565,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+HARD,Max Stack,92.1,0.4522052931456582,https://leetcode.com/problems/max-stack,"Linked List, Stack, Design, Doubly-Linked List, Ordered Set"
+MEDIUM,Rotting Oranges,86.9,0.5584685394747462,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+HARD,Read N Characters Given read4 II - Call Multiple Times,86.9,0.4272687299171317,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times,"Array, Simulation, Interactive"
+MEDIUM,Longest Consecutive Sequence,86.9,0.47255130884367685,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union Find"
+MEDIUM,Longest Substring Without Repeating Characters,80.1,0.36201674816415236,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Min Stack,70.6,0.5578056968171291,https://leetcode.com/problems/min-stack,"Stack, Design"

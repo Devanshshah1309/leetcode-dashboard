@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,House Robber IV,100.0,0.4559746594376105,https://leetcode.com/problems/house-robber-iv,"Array, Binary Search"
+MEDIUM,Maximum Erasure Value,100.0,0.5897451926683503,https://leetcode.com/problems/maximum-erasure-value,"Array, Hash Table, Sliding Window"
+MEDIUM,Max Chunks To Make Sorted,66.1,0.6391000167572355,https://leetcode.com/problems/max-chunks-to-make-sorted,"Array, Stack, Greedy, Sorting, Monotonic Stack"
+MEDIUM,LRU Cache,66.1,0.44265640977115533,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Non-decreasing Array,66.1,0.24998803210827283,https://leetcode.com/problems/non-decreasing-array,Array

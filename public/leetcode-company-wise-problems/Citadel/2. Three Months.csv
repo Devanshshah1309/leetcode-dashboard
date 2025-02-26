@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Count Palindromic Subsequences,100.0,0.3850054745577134,https://leetcode.com/problems/count-palindromic-subsequences,"String, Dynamic Programming"
+MEDIUM,Insert Delete GetRandom O(1),86.7,0.5486438654365023,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Evaluate Division,86.7,0.6267561075306146,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+MEDIUM,Palindromic Substrings,75.1,0.7118585303435221,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+HARD,Rank Transform of a Matrix,66.0,0.4117798663253209,https://leetcode.com/problems/rank-transform-of-a-matrix,"Array, Union Find, Graph, Topological Sort, Sorting, Matrix"
+MEDIUM,Merge Intervals,66.0,0.48695112053072653,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Parallel Courses III,66.0,0.6688272671283292,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"
+MEDIUM,Number of Islands,66.0,0.6142362419103389,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

@@ -1,0 +1,10 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Walking Robot Simulation,100.0,0.5807421900666555,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
+MEDIUM,LRU Cache,96.2,0.44265403122549474,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Design In-Memory File System,71.2,0.4802549196845431,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+HARD,Design a Text Editor,62.8,0.47092921689138756,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+EASY,Find Users With Valid E-Mails,62.8,0.4408155760707581,https://leetcode.com/problems/find-users-with-valid-e-mails,Database
+MEDIUM,Design Tic-Tac-Toe,62.8,0.5840283676989214,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+MEDIUM,Walls and Gates,62.8,0.6246731539546004,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"
+EASY,Best Time to Buy and Sell Stock,62.8,0.546839875865978,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Encode and Decode TinyURL,62.8,0.8662799220272904,https://leetcode.com/problems/encode-and-decode-tinyurl,"Hash Table, String, Design, Hash Function"

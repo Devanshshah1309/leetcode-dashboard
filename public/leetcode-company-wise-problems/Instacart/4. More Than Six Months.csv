@@ -1,0 +1,18 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Time Based Key-Value Store,100.0,0.49333052755318435,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+EASY,Check if Every Row and Column Contains All Numbers,70.9,0.5249410863331901,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
+MEDIUM,Basic Calculator II,62.4,0.451241868180059,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Best Time to Buy and Sell Stock II,62.4,0.6871135387404802,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+EASY,Best Time to Buy and Sell Stock,62.4,0.546839880313988,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Merge Intervals,62.4,0.48695210706743647,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Best Time to Buy and Sell Stock with Cooldown,62.4,0.5974092036335403,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown,"Array, Dynamic Programming"
+MEDIUM,Non-overlapping Intervals,62.4,0.5484188029303861,https://leetcode.com/problems/non-overlapping-intervals,"Array, Dynamic Programming, Greedy, Sorting"
+HARD,Wildcard Matching,62.4,0.2927069615229035,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"
+MEDIUM,Valid Sudoku,62.4,0.6151422600228841,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+EASY,Search Insert Position,62.4,0.4819726276958934,https://leetcode.com/problems/search-insert-position,"Array, Binary Search"
+MEDIUM,LRU Cache,62.4,0.44265446166237643,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Edit Distance,62.4,0.580770501790339,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
+MEDIUM,Maximum Number of Events That Can Be Attended,62.4,0.3268697343677681,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Minimum Number of Arrows to Burst Balloons,62.4,0.5990929927585558,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons,"Array, Greedy, Sorting"
+HARD,Valid Number,62.4,0.20992811230890893,https://leetcode.com/problems/valid-number,String
+HARD,Word Search II,62.4,0.3696121756128305,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
