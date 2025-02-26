@@ -21,12 +21,20 @@ export default function MainPage() {
       >
         Leetcode Company-Wise Dashboard
       </h2>
-      <p className="text-sky-500" style={{ textAlign: "center" }}>
+      <p style={{ textAlign: "center" }}>
         <a
           href="https://github.com/liquidslr/leetcode-company-wise-problems"
           target="_blank"
+          className="text-sky-500"
         >
           Data Source (last updated 14 Feb, 2025)
+        </a>
+        {" and "}
+        <a
+          href="https://github.com/Devanshshah1309/leetcode-dashboard"
+          className="text-sky-500"
+        >
+          Github Repository
         </a>
       </p>
       <QuestionTable />
