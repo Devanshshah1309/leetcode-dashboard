@@ -347,7 +347,6 @@ export default function QuestionTable() {
 
       {loading && <p>Loading...</p>}
       {error && <p className="text-red-500">{error}</p>}
-
       {!loading && !error && (
         <Table>
           <TableHeader>
@@ -386,6 +385,12 @@ export default function QuestionTable() {
           </TableBody>
         </Table>
       )}
+      {!loading &&
+        duration !== "" &&
+        selectedCompany !== "" &&
+        questions.length === 0 && (
+          <p className="p-4 text-sm">No questions found!</p>
+        )}
     </div>
   );
 }
