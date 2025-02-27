@@ -319,30 +319,34 @@ export default function QuestionTable() {
 
   return (
     <div className="container mx-auto p-4 space-y-4">
-      <div className="flex space-x-4 text-black">
-        <Select value={selectedCompany} onValueChange={setSelectedCompany}>
-          <SelectTrigger className="w-[180px]">
-            <SelectValue placeholder="Select company" />
-          </SelectTrigger>
-          <SelectContent>
-            {companies.map((company) => (
-              <SelectItem key={company} value={company}>
-                {company}
-              </SelectItem>
-            ))}
-          </SelectContent>
-        </Select>
-        <Select value={duration} onValueChange={setDuration}>
-          <SelectTrigger className="w-[180px]">
-            <SelectValue placeholder="Select duration" />
-          </SelectTrigger>
-          <SelectContent>
-            <SelectItem value="1. Thirty Days">Past 30 days</SelectItem>
-            <SelectItem value="2. Three Months">Past 3 months</SelectItem>
-            <SelectItem value="3. Six Months">Past 6 months</SelectItem>
-            <SelectItem value="5. All">Forever</SelectItem>
-          </SelectContent>
-        </Select>
+      <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 text-black">
+        <div className="w-full md:w-auto">
+          <Select value={selectedCompany} onValueChange={setSelectedCompany}>
+            <SelectTrigger className="w-full md:w-[180px]">
+              <SelectValue placeholder="Select company" />
+            </SelectTrigger>
+            <SelectContent>
+              {companies.map((company) => (
+                <SelectItem key={company} value={company}>
+                  {company}
+                </SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
+        </div>
+        <div className="w-full md:w-auto">
+          <Select value={duration} onValueChange={setDuration}>
+            <SelectTrigger className="w-full md:w-[180px]">
+              <SelectValue placeholder="Select duration" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="1. Thirty Days">Past 30 days</SelectItem>
+              <SelectItem value="2. Three Months">Past 3 months</SelectItem>
+              <SelectItem value="3. Six Months">Past 6 months</SelectItem>
+              <SelectItem value="5. All">Forever</SelectItem>
+            </SelectContent>
+          </Select>
+        </div>
       </div>
 
       {loading && <p>Loading...</p>}
