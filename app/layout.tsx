@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Leetcode Company-Wise Dashboard",
-  description: "Created with love",
+  description: "Created with love by Devansh ❤️",
 };
 
 export default function RootLayout({

@@ -315,8 +315,6 @@ export default function QuestionTable() {
     }
   }, [selectedCompany, duration]);
 
-  const filteredQuestions = questions;
-
   return (
     <div className="container mx-auto p-4 space-y-4">
       <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 text-black">
@@ -363,7 +361,7 @@ export default function QuestionTable() {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {filteredQuestions.map((q) => (
+            {questions.map((q) => (
               <TableRow key={q.id}>
                 <TableCell>{q.id}</TableCell>
                 <TableCell>

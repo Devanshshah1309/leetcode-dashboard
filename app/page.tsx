@@ -1,8 +1,23 @@
 "use client";
 
 import QuestionTable from "../components/question-table";
+import { useEffect } from "react";
 
 export default function MainPage() {
+  useEffect(() => {
+    const script = document.createElement("script");
+    script.src = "https://www.googletagmanager.com/gtag/js?id=G-KD58YLN2SV";
+    script.async = true;
+    document.head.appendChild(script);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-KD58YLN2SV");
+  }, []);
+
   return (
     <div
       style={{
